@@ -1,0 +1,117 @@
+include::_partials/README.adoc[tag=metadata]
+= Valores esenciales del programa
+
+La facilidad actual para captar datos y la ubicuidad y el volumen de estos datos, así como las posibilidades de la ciencia de datos, están abriendo muchas perspectivas con respecto a la provisión de servicios.
+También facilita, sin embargo, que se segmente a las personas y se identifiquen y reciban vigilancia.
+Esto plantea muchos interrogantes y desafíos para la sociedad en general y, en particular, para las administraciones públicas.
+La dimensión virtual y la soberanía de la ciudadanía en este ámbito es un tema de interés por las repercusiones que estos aspectos pueden tener en el mundo analógico, y las administraciones tienen que estar preparadas y dedicar esfuerzos en componer una estrategia consistente en este ámbito.
+Esto tiene que permitir asegurar la democracia, los plenos derechos de la ciudadanía y la confianza de esta ciudadanía hacia las instituciones públicas.
+
+== Los valores esenciales
+
+Los datos municipales son un activo estratégico y un recurso valioso que habilita el Gobierno local a llevar a cabo su misión y sus programas de una forma efectiva.
+El acceso adecuado a los datos municipales mejora significativamente el valor de la información y el retorno de la inversión que supone generarlos.
+Siguiendo el plan “Barcelona ciudad digital”footnote:[Accesible en http://www.slideshare.net/Barcelona_cat/pla‐barcelona‐ciutat‐digital.] y su énfasis en la innovación pública, en la economía digital y en el empoderamiento ciudadano, esta estrategia de gestión de datos se sustenta en las siguientes consideraciones.
+
+Dentro de este contexto, la nueva gestión y el uso de los datos debe respetar y cumplir los valores esenciales aplicables a los datos.
+Para el Ayuntamiento de Barcelona, estos valores son los siguientes:
+
+* *Conocimiento municipal compartido*.
+Los datos municipales, en el sentido más amplio, tienen una gran dimensión social y proveen a la ciudadanía de conocimiento —pasado, presente y futuro— sobre el gobierno, la ciudad, la sociedad, la economía y el medio ambiente.
+
+* *Valor estratégico de los datos*.
+Hay que gestionar los datos como valor estratégico para la corporación con una visión innovadora para convertirlos en activos intelectuales de la organización.
+
+* *Orientación a resultados*.
+Los datos municipales también son un medio para asegurar la rendición de resultados y la transparencia de la Administración, para gestionar los servicios y las inversiones, y para mantener y mejorar el rendimiento de la economía, la riqueza y el bienestar de la ciudadanía.
+
+* *Datos como bien común*.
+La ciudadanía y el bien común deben ser el eje central de los planes y las plataformas tecnológicas del municipio de Barcelona.
+Los datos son una fuente de riqueza que empodera a las personas que acceden a ellos.
+Hacer posible el control ciudadano de los datos, minimizar la brecha digital y evitar prácticas discriminatorias o no éticas es la esencia de la soberanía tecnológica municipal.
+
+* *Transparencia e interoperabilidad*:
+Las instituciones públicas deben ser abiertas, transparentes y responsables con la ciudadanía.
+La promoción de la apertura y la interoperabilidad, sujeta a los requerimientos técnicos y legales, incrementa la eficiencia de las operaciones, reduce los costes, mejora los servicios, soporta las necesidades e incrementa el acceso público a la información municipal de valor, y, de esta forma, promociona la participación pública en el gobierno.
+
+* *Reutilización y licencias de uso abiertas*.
+Hacer la información municipal accesible, utilizable por todas y todos por defecto, sin tener que pedir permiso previo, y analizable por quien lo desee, puede fomentar el emprendimiento, la innovación social y digital, los puestos de trabajo y la excelencia en la investigación científica, aparte de mejorar la vida de los ciudadanos y las ciudadanas de Barcelona y contribuir significativamente a la estabilidad y la prosperidad de la ciudad.
+
+* *Calidad y seguridad*.
+El Gobierno de la ciudad debe dar pasos firmes con el fin de asegurar y maximizar la calidad, la objetividad, la utilidad, la integridad y la seguridad de la información municipal antes de divulgarla, y mantener los procesos para efectuar las peticiones de enmienda de la información divulgada públicamente.
+
+* *Organización responsable*.
+Para añadir valor a los datos y transformarlos en un activo con el objetivo de promover la rendición de cuentas y los derechos de la ciudadanía, son necesarias nuevas acciones, nuevos procedimientos integrados con los cuales las nuevas plataformas crezcan de una forma orgánica, transversal y transparente.
+Una estrategia de gobernanza comprensiva es la que posibilita la promoción de la revisión y evita las redundancias, los incrementos del coste, la ineficiencia o las malas prácticas.
+
+* *Cuidado del ciclo de vida de los datos*.
+La atención a la gestión de los registros municipales desde que se crean hasta que se destruyen o se preservan es un componente esencial de la gestión de datos y de la promoción de la responsabilidad pública.
+Las acciones de cuidado durante el ciclo de vida, unidas a las actividades que aseguran el acceso continuado a los materiales digitales tanto tiempo como sea necesario, ayudan a una explotación analítica de los datos, pero también a la protección responsable de los registros históricos del Gobierno municipal y a la salvaguardia de los derechos económicos y legales del gobierno y de la ciudadanía.
+
+* *Privacidad “desde el diseño”*.
+Proteger la privacidad es de máxima importancia.
+El Ayuntamiento debe considerar y proteger la privacidad individual y colectiva durante el ciclo de vida de los datos de una forma sistemática y comprobable, tal como especifica el Reglamento general de protección de datos (Reglamento 2016/679 del Parlamento Europeo y del Consejo), con un énfasis particular en el consentimiento informado, la minimización de la información y la limitación al propósito, de manera explicable, segura y ajustada a la ley.
+
+* *Seguridad*.
+La información municipal es un activo estratégico sujeto a riesgos y se debe gestionar de forma que estos riesgos se minimicen.
+Eso incluye privacidad, protección de los datos, discriminación algorítmica y riesgos de ciberseguridad que hay que fijar de una forma específica promoviendo arquitecturas de datos éticos y responsables, técnicas de mejora de la privacidad y la evaluación de los efectos sociales.
+Aunque la seguridad y la privacidad son dos disciplinas separadas e independientes, están fuertemente relacionadas y es esencial para las unidades tomar una aproximación coordinada para identificar y gestionar la ciberseguridad y los riesgos sobre la privacidad con requerimientos y estándares aplicables.
+
+* *Soberanía tecnológica*.
+Cuando se planifiquen, se presupuesten o se compren nuevos equipamientos, recursos de TI o infraestructuras o servicios de soporte, el proceso de contratación y los pliegos procedentes deben estar en línea con las prioridades del plan “Barcelona ciudad digital”.
+Para cumplir el objetivo de soberanía tecnológica enunciado en la estrategia de transformación digital ágil y los estándares de servicios digitales, especialmente para evitar la dependencia de proveedores (_vendor lockin_), existen las siguientes directrices, que amplían los principios que guían el Instituto Municipal de Informática (IMI) en materia de tecnología e innovación: interoperabilidad, agilidad, ética y apertura de conocimientos y tecnologías (tanto _software_ como datos).
+
+* *Estándares abiertos*.
+Los servicios digitales del Ayuntamiento deben utilizar obligatoriamente estándares abiertos y, en especial, los contenidos del catálogo de estándares de la Norma técnica de interoperabilidad (desarrollados bajo el Real decreto 4/2010) o los estándares abiertos aceptados internacionalmente que actualicen, sustituyan o complementen estos estándares.
+Cuando no haya un estándar abierto aprobado para el formato requerido, se presentará una propuesta del formato que se quiere utilizar, teniendo en cuenta lo que establece la normativa aplicable y los requisitos para estándares abiertos del IMI.
+
+* *Metodología ágil*.
+Será necesario que los proyectos tecnológicos que se tengan que desarrollar en torno a la gestión, el análisis y la difusión de datos corporativos se realicen preferentemente siguiendo la metodología tal como la define el xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Código de prácticas tecnológicas], publicado en la medida de gobierno correspondiente del Ayuntamiento de Barcelona en octubre del 2017.
+
+== Soberanía de datos
+
+La “soberanía de datos” es un concepto vinculado al derecho constitucional alemán, el derecho a la autodeterminación informativa (cuando la información en forma digital de una persona no está sujeta al control de un tercero y, en particular, de personas o sistemas que tratan los datos en un país tercero, con una regulación ajena al lugar donde se encuentra la persona).
+
+La mayor parte de las preocupaciones actuales en torno a la soberanía de datos se refieren a hacer cumplir las normas de privacidad y evitar que los datos almacenados en un país extranjero sean interceptados por el gobierno del país anfitrión o que este gobierno acceda a ellos.
+Pero el concepto de la soberanía de datos es más amplio que esta dimensión internacional e implica la necesidad que una persona tenga el control, en todo momento y en todos los sistemas relevantes, sobre la recopilación, el almacenaje, el uso, la transferencia o la publicación de sus datos, tanto si son datos técnicos, científicos, económicos o sociales como personales.
+
+Las organizaciones adoptan cada vez más servicios basados en sistemas informáticos ajenos y, en particular, en la nube, para aprovechar los beneficios de no tener que comprar, gestionar, actualizar y reemplazar sistemas y aplicaciones.
+Como un objetivo principal de utilizar la informática en la nube es permitir el acceso a la información y a los sistemas en cualquier momento y en cualquier lugar, muchas organizaciones no valoran muy bien dónde almacenan sus datos, que podrían escapar a su control “único” y ser accedidos por personas no autorizadas, o incluso difundidos públicamente.
+
+La soberanía de datos presenta desafíos técnicos y legales cuando se mueven los sistemas locales y los almacenes de información de terceros, en particular en la nube.
+
+En este contexto, los sistemas de información del Ayuntamiento se deben determinar y configurar en todo momento para garantizar al Ayuntamiento la soberanía de sus datos y, en particular, de los datos de los ciudadanos y las ciudadanas (de carácter personal), que gestione el Ayuntamiento en la prestación de sus servicios.
+El Ayuntamiento debe tener en todo momento la capacidad de acceder a sus datos, tratarlos y hacer copias “locales” de seguridad.
+Además, las entidades y entes del Ayuntamiento deben respetar en todo momento la normativa aplicable de protección de datos con respecto al acceso y al tratamiento de los datos por parte de terceros, así como con respecto a las transferencias internacionales de datos.
+
+
+== El uso ético de los datos
+
+El Ayuntamiento de Barcelona está comprometido con el uso ético de los datos.
+Este principio se estructura según los siguientes valores principales:
+
+* Transparencia: tanto el Ayuntamiento como la ciudadanía saben en todo momento por qué se recogen los datos y para qué, y las medidas aplicables para garantizar su uso ético.
+* Tracing: el Ayuntamiento sabe en todo momento el origen de los datos, los usos permitidos y las restricciones aplicables.
+* Diligencia: los colaboradores y los proveedores de servicios relacionados con datos cumplen con los mismos principios y obligaciones que el Ayuntamiento, y el Ayuntamiento vigila este cumplimiento.
+* Privacidad: cualquier uso de datos de carácter personal debe cumplir la normativa de protección de datos y, en particular, los principios aplicables a su tratamiento, incluidos los de uso justo (fairness o equidad), integridad y exactitud, limitación de finalidades de tratamiento, y minimización de datos.
+* Confianza: el uso de datos siempre se debe llevar a cabo conforme a las expectativas de la ciudadanía, y el Ayuntamiento debe implantar sistemas de control y retroalimentación para medir esta conformidad.
+* Responsabilidad: el Ayuntamiento asume la responsabilidad de todos los usos de los datos que realice.
+* Beneficio: los datos siempre se deben utilizar en beneficio de la ciudadanía y de la sociedad.
+
+Todos los proyectos que impliquen tratamiento de datos de la ciudad deben cumplir estos principios.
+
+Además, hoy en día, muchas operaciones y decisiones que antes se dejaban a los seres humanos cada vez se delegan más en algoritmos, que pueden aconsejar, si no decidir, cómo se tendrían que interpretar los datos recogidos y tratados por sistemas de información y qué acciones se tendrían que tomar como resultado.
+Cada vez más a menudo, estos algoritmos afectan a los procesos sociales, las transacciones empresariales y las decisiones gubernamentales, así como la manera en como percibimos, entendemos e interactuamos entre nosotros y con nuestro entorno.
+Las diferencias entre el diseño y la operación de estos algoritmos y nuestra comprensión de lo que implican pueden tener consecuencias éticas graves que afecten tanto a personas individuales como a grupos de ciudadanos y ciudadanas.
+Es esencial que las decisiones que tome el Ayuntamiento utilizando algoritmos basados en nuestros datos sean _accountable_ (aplicando el concepto de _algorítmico accountability_) y garanticen los principios éticos del respeto por los derechos, la justicia, el concepto de fairness, el bienestar y la virtud.
+
+Dentro del marco de esta medida, en el seno del OMD se establecerá un grupo de trabajo para identificar los temas planteados por el determinismo algorítmico relacionado con las decisiones automatizadas tomadas por el Ayuntamiento, y para identificar las medidas necesarias para garantizar los siguientes principios éticos, con vistas a determinar si más adelante sería necesaria una instrucción sobre el tema, con el objetivo de establecer las reglas aplicables para el uso ético de datos y algoritmos dentro del Ayuntamiento:
+
+* Transparencia: el derecho de la ciudadanía (incluidos el personal del Ayuntamiento y las entidades relacionadas) a ser informados sobre las decisiones automatizadas y con respecto a los algoritmos subyacentes.
+* _Due process_ (debidos procesos): el derecho de la ciudadanía a emprender acciones y a iniciar recursos con relación al tratamiento de datos y a las decisiones automatizadas que los afectan.
+* _Accountability_ y proporcionalidad: garantizar que las decisiones automatizadas sean justas y proporcionadas y que no perjudiquen a la ciudadanía (en particular, que no sean discriminatorias desde ningún punto de vista).
+
+Dentro de este contexto, el _algorithmic accountability_ quedará reforzado por la transparencia del código fuente abierto de los sistemas informáticos del Ayuntamiento implicados en la toma de decisión (o en el apoyo a la toma de decisión).
+Donde sea posible, los proyectos basados en datos (_data driven_) permitirán comprobar los algoritmos mediante simulaciones basadas en los datos de la ciudad; asimismo, los proveedores terceros de tecnología deberán revelar —a través del código fuente abierto o de otras maneras— la lógica subyacente detrás de cualquier proceso informático de toma automatizada de decisión (o de apoyo a la toma de decisión) de sus sistemas que utilice el Ayuntamiento.
+
+Los valores y los principios éticos se deben considerar como elementos intrínsecos del modelo de datos y de la gobernanza de los datos del Ayuntamiento, y el grupo de trabajo ayudará a construir este modelo de datos y los controles adecuados para su gobernanza, y a establecer un proceso para proporcionar una valoración ética para cualquier proyecto de desarrollo.

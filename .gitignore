@@ -1,0 +1,5 @@
+*.html
+
+*.editorconfig
+.vscode
+settings.json

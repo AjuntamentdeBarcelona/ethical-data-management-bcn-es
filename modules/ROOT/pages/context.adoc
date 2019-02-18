@@ -1,0 +1,73 @@
+= Contexto
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
+== Situación actual
+
+Actualmente, el Ayuntamiento gestiona muchos datos y muchos tipos de contenidos de información que hay que tener bien identificados y supervisados para poder asegurar el cumplimiento de las funciones de servicio público que le son propias, sin infringir y respetando la normativa sobre privacidad, confidencialidad, seguridad, transparencia, acceso y reutilización que nos exige la legalidad vigente.
+Además, tenemos que poder trabajar y gestionar estos datos de una forma adecuada y sostenible para añadirles valor y dimensión social y transformarlos en un activo real para la ciudadanía y para la propia corporación municipal.
+En el Ayuntamiento, a menudo, los datos se mantienen en “silos informativos” o en pilas verticales, de manera que no se pueden compartir fácilmente entre los departamentos, y esto, que ha tenido una gran repercusión en la organización hasta hoy, es lo que se quiere cambiar con esta medida.
+
+Desde el punto de vista cultural, en los últimos años la organización municipal ha ido asumiendo el hecho de que la información municipal es un bien de interés común para el Ayuntamiento y para la ciudadanía.
+El acceso permanente a los datos, tanto si son públicos como restringidos o confidenciales, empodera a las comunidades que acceden a ellos porque les permite tomar decisiones debidamente informadas y las capacita para ser más libres.
+
+Para la ciudadanía, los datos municipales son una fuente de riqueza que puede contribuir a romper el ciclo de la pobreza y puede ser la base de un desarrollo humano sostenible.
+El acceso a los contenidos públicos es un derecho democrático básico que contribuye a disminuir la brecha digital y capacita la ciudadanía para decidir y actuar libremente en la vida social, laboral y de ocio, desde un punto de vista individual y colectivo.
+Hacer una gestión y una difusión correctas de estos datos debe posibilitar que la ciudadanía tenga más formación de opinión y voluntad de participación en los asuntos locales, garantizar el retorno de la inversión pública a la sociedad, facilitar el control de la Administración municipal por parte de la ciudadanía, acelerar el descubrimiento de conocimiento, fomentar el trabajo en colaboración, animar la innovación, lo cual enriquece la educación y estimula la economía, incrementar la productividad y ayudar a encontrar nuevas soluciones para abordar los retos de las nuevas sociedades, en cambio constante, para aumentar la competitividad y para promover el avance del conocimiento a escala global.
+
+Para el Ayuntamiento, los datos, en el sentido más amplio del concepto, que generamos, recogemos, recibimos, almacenamos, procesamos o compartimos también tienen un gran valor intrínseco, lo que nos sitúa en una posición de privilegio que hay que saber aprovechar para compartirlos con todo el mundo.
+Es necesario gestionar estos recursos de información de una forma sistemática e inteligente, teniendo en cuenta todo su ciclo de vida, para llegar a transformarlos en un activo y construir las herramientas y los servicios necesarios para disponer de ellos just in time y tenerlos al alcance de los departamentos o de las personas que los requieran, más allá de los límites del derecho de acceso.
+Para el Ayuntamiento, los beneficios de este proceso sistémico también son numerosos: se incrementa la eficiencia y la responsabilidad, se aumenta la visibilidad de la institución y la de nuestro conocimiento, es una fuente de conocimiento permanente y persistente porque se preserva de una forma adecuada, garantiza la reputación de la institución, mejora la transparencia y la rendición de cuentas, potencia la reutilización en beneficio de todos y todas, y contribuye a mejorar la productividad.
+
+Desde el punto de vista arquitectónico, actualmente el Ayuntamiento debe repensar y desarrollar las infraestructuras flexibles, los contenidos o los datos, los procedimientos y los servicios interoperables que nos permitan hacer un cambio de modelo y de estrategia de datos para poder compartirlos entre todas las comunidades interesadas, aplicando criterios y protocolos a escala general y añadiendo especificidades según los diferentes negocios y objetivos departamentales.
+
+Las infraestructuras deben incluir las facilidades, la tecnología y la experiencia de los equipos humanos.
+Tenemos que contemplar los datos desde la visión más amplia, referida a todos los recursos de información: los libres de derechos y los protegidos, los nacidos digitales o digitalizados e, incluso, los recursos electrónicos suscritos o de licencia.
+Los procedimientos deben homogeneizar vocabularios, aplicar estándares de metadatos y garantizarnos la interoperabilidad dentro del ecosistema de datos digital mundial, y los servicios, aparte de facilitar la prestación de los servicios de información y atención tradicionales, deben ser flexibles para atender otras necesidades emergentes en una sociedad del conocimiento que cambia tan rápidamente.
+
+Estas estrategias tienen que pasar por definir un modelo de clasificación de los datos que tenga en cuenta los aspectos legales y de seguridad en cada etapa del ciclo de vida; las herramientas para crear los objetos digitales, y la asignación de metadatos descriptivos, administrativos, técnicos y de preservación, así como la asignación de identificadores unívocos y persistentes; y también tienen que pasar por asegurar que los datos y sus metadatos sean comprensibles por humanos y por máquinas, es decir, para garantizar la información de acceso abierto, fácil de encontrar y de compartir y de lectura mecánica.
+Es un cambio de paradigma donde el nuevo valor es el acceso por defecto a los datos municipales.
+Hay que aplicar sistemáticamente los procedimientos de evaluación y selección de datos para crear, también, una política de preservación que sea sostenible a largo plazo; planificar la transferencia al repositorio analítico, o bien, si procede, la ingesta definitiva a un repositorio seguro y verificado para que los datos sean accesibles permanentemente; aplicar vocabularios y estándares controlados y de licencias de uso claras y legibles mecánicamente para permitir su reutilización individual o masiva; dar siempre conocimiento de la fuente de procedencia, y divulgar la existencia de los datos a la ciudadanía para que sea consciente de que existen y que tiene derecho a usarlos.
+
+Eso tiene consecuencias jurídicas importantes, como las que impone el nuevo Reglamento general de protección de datos (*RGPD*), que en mayo del 2018 será obligatorio para todas las instituciones públicas.
+Hay que señalar que el Ayuntamiento está trabajando en un plan para adaptarse al RGPD y que se han tomado medidas en este sentido.
+La dispersión de los servicios de datos podría comportar problemas de seguridad en el futuro (la dispersión de los datos también puede significar el acceso no autorizado a información personal tanto por parte de los contratistas como de otros agentes, aunque en este momento no se han producido filtraciones de datos de ningún tipo).
+Por eso, cuando se habla de lo que queremos hacer internamente con los datos, también existen problemas arquitectónicos que hay que abordar. Entre estos problemas se incluye la necesidad de un punto de acceso unificado con suficiente capacidad técnica para manejar grandes cantidades de información, pero también un estándar de interoperabilidad para compartir datos entre servicios, sistemas y aplicaciones (es decir, una política unificada de API).
+
+Con respecto a la gobernanza, se necesita un organismo, una dirección municipal de datos, que lidere el nuevo modelo, que impulse el cambio de paradigma dentro de la organización y que asigne responsabilidades para garantizar que los datos se gestionarán como un activo real durante todo su ciclo de vida, con lo cual se les añadirá valor.
+Este órgano de gobierno debe llevar a cabo una supervisión de alto nivel y estar facultado para tomar decisiones sobre posibles conflictos de datos de las licitaciones públicas.
+Además, tendría que dirigir un cambio de mentalidad en el Ayuntamiento dirigido a conseguir un enfoque basado en datos para informar y tomar decisiones con respecto a los problemas de la ciudad.
+
+Finalmente, con respecto al intercambio de datos, hasta ahora, el papel del Ayuntamiento ha sido discreto.
+Por una parte, se mantuvo un portal de datos abierto, pero los estándares del portal eran bajos y el apoyo político a la apertura de datos era poco decidido.
+Con respecto a la contratación, básicamente no existe ninguna preocupación sobre los datos de los contratos, ya que no se consideran un activo interno.
+
+== Motivaciones de la estrategia de datos
+
+En el plano conceptual, hay que mencionar la motivación de este programa.
+Vivimos en un mundo digital, donde el acceso a la tecnología permite transformar muchos aspectos de las sociedades.
+En particular, la tecnología permite la escalabilidad de los procesos y los servicios.
+Eso, junto con una disponibilidad cada vez mayor de datos para medir casi todos los aspectos de la vida ciudadana (las denominadas *big data* o macrodatos), puede poner en peligro el nivel de libertad de los ciudadanos y ciudadanas que viven a nuestras sociedades.
+Además, la escalabilidad inherente que ofrecen estas tecnologías, aunque tiene consecuencias positivas con respecto a la eficiencia, también puede conducir a un aumento de las desigualdades existentes.
+
+Como administración pública, el Ayuntamiento está en una posición única para asegurar que eso no suceda.
+Debe impulsar una agenda que explícitamente se oriente a asegurar, por una parte, los derechos digitales de la ciudadanía, mientras que, por otra, actúa como propiciador para generar riquezas bien distribuidas.
+Esta riqueza se puede generar innovando y explotando los datos, que se han descrito como “el nuevo petróleo del siglo XXI”.
+
+No obstante, los datos en sí mismos, como el petróleo, se deben refinar con los procesos y las capacidades adecuadas, que no todos los actores sociales tienen con el mismo nivel.
+Por lo tanto, una mera política de defender los “datos abiertos” en nombre de la transparencia y permitir que ciertos actores accedan a ellos sin ninguna estrategia o normativa clara, puede conducir a una sociedad todavía más desigual.
+Aunque los datos se tienen que hacer públicos, no debemos olvidar que las capacidades en términos de poder económico, conocimiento e infraestructura no se distribuyen de una manera uniforme en la población; por lo tanto, como ente público, tenemos que cambiar claramente el paradigma actual de pedir solo que se lancen los datos “a la naturaleza”.
+
+Desde un punto de vista general, las administraciones públicas tenemos que ser las que lideremos esta visión.
+Tenemos el poder suficiente para poder impulsar nuestra visión, ya que tenemos una parte de las infraestructuras críticas, importantes capacidades económicas, el alcance comunicativo y, para empezar, un corpus de datos nada despreciable.
+Por lo tanto, al conseguir que los otros actores suban a bordo siguiendo el liderazgo del Ayuntamiento, se podría activar un cambio cultural en esta dirección.
+
+Además, a partir de esta medida de gobierno, hay que definir un marco que contemple todas las acciones necesarias sobre los datos para asegurar su acceso continuado y permanente en el tiempo que se considere necesario y bajo el principio de datos FAIR impulsado por los organismos europeos y, especialmente, por el Research Data Management Working Group.
+
+Finalmente, se debe considerar que el Ayuntamiento actúa como protector de los datos de la ciudadanía.
+Por lo tanto, es muy importante poner estos datos a su disposición a fin de que sean accesibles para la ciudadanía y que se pueda construir una relación verificable y fiable.
+Sin embargo, para que eso sea una realidad, no solo los datos y los protocolos deben ser transparentes sino que la ciudadanía también debe tener las herramientas y los conocimientos para poder verificarlos.
+En un mundo cada vez más digitalizado, eso significa que el Ayuntamiento debe impulsar actividades que ayuden a capacitar la ciudadanía en el dominio digital.
+Para hacerlo, hay que aumentar la conciencia sobre la importancia de ejercer los derechos digitales y también proporcionar herramientas que permitan a la sociedad entender las implicaciones, las posibilidades y los peligros que hay detrás de un mundo totalmente digitalizado, donde hay muchos datos disponibles sobre actividades humanas.

@@ -1,0 +1,50 @@
+include::_partials/README.adoc[tag=metadata]
+= Ámbitos de aplicación
+
+
+Esta medida es aplicable a las siguientes en entidades y datos.
+
+
+== Entidades y sistemas
+
+Es responsabilidad de la estructura ejecutiva municipal y de sus entes dependientes poner en práctica las acciones y los requerimientos que se deriven de esta medida.
+
+Son aplicables a las actividades de gestión en las que se utilice cualquier recurso de TI de cualquier medio (a no ser que esté excluido expresamente) que recoja, almacene, utilice o publique datos, incluida la información en soporte papel y electrónico.
+Cuando alguna entidad lleve a cabo un encargo o actúe como proveedor de un servicio, la responsabilidad última en la aplicación de los requerimientos de esta estrategia se mantiene en la gerencia o la entidad receptora.
+
+En relación con los sistemas de seguridad y protección, hay que aplicar las directivas y las órdenes ejecutivas definidas en las directrices y los reglamentos municipales.
+
+== Datos
+
+El conjunto de datos a los que hace referencia esta medida son todos los datos municipales; se entienden como datos tanto los datos y metadatos propios como los sistemas de gestión de datos que permiten el acceso continuado, el uso, la reutilización y la preservación.
+Entre los datos municipales, podemos distinguir, conceptualmente, diferentes grandes depósitos / grupos de información:
+
+* *Datos de gestión, administrativos y técnicos.*
+Son los conjuntos de datos que las gerencias y las entidades municipales usan para llevar a cabo su misión.
+Estos datos provienen, por ejemplo, de expedientes, de sensores o de la misma ciudadanía.
+Dentro de este conjunto se incluye el concepto de los big data.
+
+* *Open Data y conjuntos de datos brutos y metadatos abiertos.*
+Son los conjuntos de datos que la corporación municipal pone a disposición del público.
+Además, la plataforma web que los sirve dispone de un sistema de búsqueda, visualización y descarga.
+También se proporciona una API que le da acceso.
+
+* *Estadística oficial.* Es el conjunto de estadísticas obtenidas por el Ayuntamiento sobre varios conjuntos de datos y que están catalogadas como estadística oficial por la entidad catalana de estadística oficial, el IDESCAT.
+
+* *Open Content (BCNROC):*
+Son los datos de producción municipal publicados en documentos de autoría municipal.
+Son contenidos de todo tipo, textuales, numéricos, visuales, etcétera, que se encuentran o se configuran en los documentos públicos producidos o financiados por el Ayuntamiento de Barcelona; así, el Ayuntamiento tiene su autoría y los hace accesibles, de forma digital y permanente, a la ciudadanía, con esquemas de metadatos estándar para garantizar su interoperabilidad, con licencias Creative Commons para permitir la reutilización de los documentos, con identificadores uniformes de recursos (URI) que garantizan el enlace permanente a las redes digitales y con el uso de formatos abiertos para facilitar la web semántica.
+
+* *Datos externos (CBAB).* Son los recursos de información de fuentes externas al Ayuntamiento, de terceros autores, que la organización recoge porque se necesitan para el trabajo interno y que están organizados y accesibles desde el catálogo corporativo del SEDAC.
+
+== Entorno y ecosistema
+
+Cuando hablamos de datos hoy, tenemos que hablar de tecnología.
+El Plan de transformación digital (*PTD*) quiere cambiar la forma como el Ayuntamiento compra y gestiona la tecnología y se relaciona con la ciudadanía.
+Actualmente, Barcelona es un polo de atracción importante de empresas tecnológicas de medidas diversas y, además, se están generando nuevas prácticas en el mercado relacionadas con modelos de negocio que pivotan sobre el código abierto y prácticas de servicio abierto.footnote:[Ver la Medida de gobierno de octubre del 2017.] El PTD tiene como objetivo establecer un campo de juego donde las pymes y otros actores económicos diferentes de las grandes corporaciones puedan entrar en el “juego” con posibilidades de ganar ofertas públicas relacionadas con la tecnología y los datos.
+Eso tiene la ventaja de diversificar los proveedores del Ayuntamiento, evitar el cierre de proveedores y también promover una economía circular, donde los beneficios del dinero público se reinvierten en actores de la ciudad, mientras que el dinero público invertido en el desarrollo de servicios se mantiene abierto de una manera predeterminada a la comunidad.
+Por lo tanto, la relación entre la compra de datos y la tecnología es importante para al alcance del programa, aunque, obviamente, no sea la preocupación principal.
+
+En este sentido, las disposiciones de esta medida se deben aplicar a todos los contratos de adquisición y de gestión de tecnología y servicios que trabajen con datos, y las entidades del Ayuntamiento deberán describir en los pliegos de aplicación las responsabilidades de los proveedores de servicios con respecto a los datos y su función, si procede, como encargados del tratamiento de datos.
+
+Además, estas disposiciones se extienden a todas las interacciones del Ayuntamiento con la “comunidad” con la que interactúa, es decir, todas las posibles personas reusuarias o consumidoras proactivas (prosumers) de datos que el Ayuntamiento hace públicos como datos abiertos: activistas, periodistas de datos, ONG, fundaciones y asociaciones del ámbito puramente no económico; también empresarios y empresarias, empresas emergentes, empresas relacionadas con la ciencia de la información y también empresas importantes del ámbito empresarial, y, finalmente, instituciones de investigación del ámbito académico.

@@ -1,0 +1,19 @@
+include::_partials/README.adoc[tag=metadata]
+= Introducción y justificación
+
+La información y los recursos de las tecnologías de la información (TI) son elementos críticos para el bienestar social, político y económico de la ciudadanía de Barcelona.
+En el caso de la Administración local, hacen posible que el Ayuntamiento proporcione servicios de calidad a la ciudadanía, generan y divulgan conocimiento, y facilitan el crecimiento y la mejora de la productividad.
+
+Para el Ayuntamiento es importante maximizar la calidad y la seguridad de sus datos y de los sistemas de información; desarrollar y aplicar una gestión coherente entre los recursos de información y las políticas de gestión con la voluntad de tener siempre informada a la ciudadanía, proteger sus derechos como sujetos; mejorar la productividad, la eficiencia, la efectividad y el retorno público de sus proyectos, así como promover la innovación responsable.
+Además, a medida que la tecnología evoluciona, es importante que las instituciones públicas gestionen los sistemas de información de manera que se identifiquen y se minimicen los riesgos de seguridad y privacidad asociados a las nuevas capacidades de los propios sistemas.
+
+Las tecnologías de gestión de la información también proporcionan oportunidades significativas para el Gobierno local.
+La integración profunda de las TI con las competencias locales y sus procesos, junto con la economía digital, combinadas con la interconexión creciente de la tecnología y de los servicios públicos, han cambiado la forma en como compartimos la información y el uso y la percepción de las tecnologías, y han transformado definitivamente las expectativas y los usos de la ciudadanía.
+Para dar respuesta a las expectativas ciudadanas y facilitar la innovación, es necesario que el Ayuntamiento de Barcelona se siga transformando con el fin de asimilar y adoptar la revolución digital, desarrollar y mantener un equipo humano, y producir servicios digitales seguros de primer nivel mundial desde la perspectiva inequívoca del servicio público.
+
+La *Estrategia del uso responsable y ético de datos* forma parte del Plan de transformación digital de Barcelona (*PTD*), que establece la hoja de ruta diseñada por el Comisionado para la Tecnología y la Innovación Digital y sus políticas para modernizar la gestión y el uso de los datos en el seno del Ayuntamiento de Barcelona.
+La estrategia se está poniendo en práctica en forma de un plan que consta de diferentes programas que se describen aquí.
+Aunque el programa se concibió específicamente como un marco conceptual para conseguir un cambio de cultura con respecto a la percepción pública de los datos, básicamente cubre todos los aspectos del PTD que se relacionan con los datos y, en particular, la estrategia de datos abiertos y el _data commons_, los proyectos data driven con el objetivo de prestar mejores servicios urbanos y la interoperabilidad basada en esquemas de metadatos y formatos de datos abiertos, el acceso permanente, y el uso y la reutilización con las mínimas barreras legales, económicas y tecnológicas posibles dentro de la legalidad vigente.
+
+Con las tecnologías de la información en el centro de casi todo, es necesario que el Ayuntamiento y sus gerencias, institutos, sociedades, consorcios, etcétera, sigan identificando las vías para aplicar las tecnologías emergentes que, fundamentalmente, pueden permitir mejorar la gobernanza general y la prestación de más y mejores servicios, a la vez que reducen su coste.
+La prestación de servicios de referencia exige que el Ayuntamiento cambie sus métodos de compra, construcción y entrega de las TI.

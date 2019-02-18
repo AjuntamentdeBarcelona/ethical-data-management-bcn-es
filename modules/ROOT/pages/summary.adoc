@@ -1,0 +1,26 @@
+include::_partials/README.adoc[tag=metadata]
+= Resumen ejecutivo
+
+En setiembre del 2016, el Ayuntamiento de Barcelona emprendió un importante proceso de transformación digital al anunciar que los servicios públicos deben proveerse ya desde el inicio mediante canales digitales, siguiendo una nueva directriz basada en la orientación a la ciudadanía y el uso de estándares abiertos y _software_ abierto, y de acuerdo con una estrategia de datos ética que da prioridad a la privacidad, a la transparencia y a los derechos digitales.
+
+La decisión del Gobierno de la ciudad está basada en el plan “Barcelona, ciudad digital” aprobado en la medida de gobierno *“Transición hacia la soberanía tecnológica”* el mes de octubre del 2016 y en la nueva Ley española 39/2015 del procedimiento administrativo común de las administraciones públicas.
+Esta ley establece que, en el año 2020, en el Esta-do español los canales digitales deberán ser prioritarios a la hora de proveer los servicios públicos.
+El plan “Barcelona, ciudad digital” establece como uno de sus objetivos prioritarios la mejora radical de los servicios públicos digitales con la finalidad de proporcionar a la ciudadanía servicios “24x7” de mayor calidad y más ajustados a sus necesidades.
+
+Este documento establece el plan que define el programa y todas las acciones y las tareas que forman parte de la *Estrategia del uso responsable y ético de datos*, un programa desarrollado dentro del Plan de transformación digital (PTD) de Barcelona.
+Este plan está liderado por el Comisionado de Tecnología e Innovación Digital del Ayuntamiento de Barcelona.
+El documento describe el alcance del programa, su relación con el PTD, los objetivos y el calendario de desarrollo de cada tarea y acción.
+Completa el Programa para la digitalización abierta: software libre y desarrollo ágil de servicios, publicado en una medida de gobierno en octubre del 2017.
+
+Mediante esta medida de gobierno y el plan de acción que contiene, Barcelona se posiciona como la primera ciudad española que desarrolla la Oficina Municipal de Datos, que debe permitir elaborar políticas públicas informadas mediante la evidencia que aportan los datos, el tratamiento correcto de estos datos y el análisis que se deriva de ello.
+El uso responsable y ético de datos es un elemento esencial dentro del PTD del Ayuntamiento, en especial con respecto al concepto de data commons y la estrategia de datos abiertos, los proyectos data driven y la interoperabilidad basada en formatos de datos abiertos.
+
+Esta medida de gobierno proporciona una visión global del plan de gestión de datos del Ayuntamiento y de los cambios propuestos para ponerlo en práctica; expone la estruc-tura de gobernanza de esta gestión de datos, los valores fundamentales para asegurar la soberanía, la privacidad y la seguridad de los datos, y también presenta las accionas orientadas a la valorización interna y externa de los datos, una orientación eminentemente práctica basada en el establecimiento de proyectos específicos con una hoja de ruta, un presupuesto y un calendario.
+
+Con la gestión ética y responsable de los datos, junto con el uso de herramientas de software libre indicado en la anterior medida de octubre del 2017, garantizaremos el acceso universal y la mejora de la transparencia y estaremos poniendo las bases para nuevas iniciativas basadas en un aprovechamiento de los datos que aportará fortaleza e independencia a la Administración.
+
+El Código de prácticas tecnológicas anexado en la mencionada medida de gobierno de octubre del 2017 establece las directrices más técnicas orientadas a poner en práctica las líneas de acción y los requisitos de esta medida sobre el uso responsable de los datos.
+Esta medida va acompañada de una instrucción sobre la Oficina Municipal de Datos, que define el modelo de gobernanza y los roles y las responsabilidades de las personas responsables de planificar y supervisar la gestión de datos en el Ayuntamiento.
+
+El Programa de transformación ágil en el cual se integra la Estrategia del uso responsable y ético de datos evoluciona continuamente; por lo tanto, las disposiciones generales de esta medida de gobierno se actualizarán y pondrán en práctica a medida que se aplique el Programa.
+Nuestra ambición es continuar adelante y hacer mucho más de lo que esta medida de gobierno expone, dado que solo establece las bases de un proceso de mejora continua.
