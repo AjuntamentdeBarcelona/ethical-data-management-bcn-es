@@ -24,7 +24,7 @@ Los entes dependientes municipales deberán obtenerlo del CTID en coordinación 
 Como mínimo, estos procesos y políticas deberán requerir que se evalúen las inversiones y los proyectos en desarrollo para determinar la aplicabilidad de la metodología ágil, los estándares de datos y contenidos abiertos, la privacidad, y los impactos éticos y sociales. y los indicadores para medir el coste, el uso y la evaluación general en el conjunto de los recursos de datos.
 Se debe asegurar que:
 
-* Hay una política de revisión única en cada entidad para realizar las evaluaciones de las in-versiones, los análisis de las operaciones o los otros sistemas de evaluación de los recursos de TI, incluidos los proyectos en desarrollo y las actividades en curso.
+* Hay una política de revisión única en cada entidad para realizar las evaluaciones de las inversiones, los análisis de las operaciones o los otros sistemas de evaluación de los recursos de TI, incluidos los proyectos en desarrollo y las actividades en curso.
 * Las necesidades de información y los datos se gestionan siguiendo las políticas de gobernanza de la entidad, donde se establecen claramente las funciones, las responsabilidades y los procesos a partir de los cuales el personal de la entidad trata los datos como un activo, así como las relaciones entre tecnología, datos, programas de la entidad, estrategias, requerimientos legales y misión y objetivos operativos.
 * Los sistemas de información obsoletos se reemplazan tan rápidamente como sea posible y la planificación presupuestaría incluye las partidas correspondientes de depreciación.
 
@@ -46,13 +46,13 @@ Cuando se valoran los riesgos de privacidad, los sistemas de privacidad deben co
 De acuerdo con la política municipal y la ley, las entidades y los entes municipales solo podrán crear, recoger, usar, almacenar o difundir datos de carácter personal si tienen la autorización pertinente.
 Es necesario que se identifique claramente esta autoridad en sus DMS y en el documento de arquitectura (DA).
 Los entes deben designar un RDAD y un delegado o delegada de protección de datos con responsabilidad sobre sus datos y que deben responder del desarrollo, la puesta en práctica y el mantenimiento de los programas de privacidad para asegurar el cumplimiento de todas las regulaciones, las normas y las directivas que actúan sobre el ciclo de vida de los datos de carácter personal, mediante una política de privacidad que aplique las medidas legales sobre los riesgos de privacidad.
-El CTID, junto con los responsables corporativos de los datos, el o la CDO y el o la DPD, tendrá autoridad sobre la actividad de los sub-DPD de cada entidad y los coordinarán.
+El CTID, junto con los responsables corporativos de los datos, el o la CDO y el o la DPD, tendrá autoridad sobre la actividad de los subDPD de cada entidad y los coordinarán.
 
 Se deben respetar los principios de protección de datos de carácter personal, los detalles de los cuales se deben establecer bajo la responsabilidad del o de la DPD.
 En particular, se incluirán:
 
 * Evaluaciones de impacto.
-Las unidades harán evaluaciones de impacto de protección de datos orientadas a asegurar preventivamente que, cuando las operaciones de tratamiento pueden comportar riesgos especialmente relevantes, se tomen las medi-das necesarias para reducir, en la medida de lo posible, el riesgo de perjudicar a las personas o afectar negativamente sus derechos y libertades al impedir o limitar su ejercicio o contenido.
+Las unidades harán evaluaciones de impacto de protección de datos orientadas a asegurar preventivamente que, cuando las operaciones de tratamiento pueden comportar riesgos especialmente relevantes, se tomen las medidas necesarias para reducir, en la medida de lo posible, el riesgo de perjudicar a las personas o afectar negativamente sus derechos y libertades al impedir o limitar su ejercicio o contenido.
 
 * Privacidad por diseño / PET.
 Se deben tomar las medidas necesarias para incorporar estrategias de privacidad por diseño o tecnologías de mejora de la privacidad (PET, por las siglas en inglés), a partir de las cuales se tenga en cuenta la salvaguardia de la privacidad de las personas interesadas en todos los procesos de diseño, desarrollo y gestión de los sistemas de datos del Ayuntamiento.
@@ -67,7 +67,7 @@ Las unidades deben elaborar un plan de recuperación que incluya las estrategias
 Además, cualquier proyecto o sistema de información deberá garantizar la posibilidad de trazar el acceso a los datos y el análisis de los algoritmos de toma de decisión (o de apoyo a la toma de decisión) y capacitar y facilitar las auditorías que se quieran realizar.
 Cualquiera tercero implicado en el tratamiento de datos municipales deberá ofrecer garantías suficientes sobre la implantación y el mantenimiento de las medidas de seguridad requeridas, y las otras directrices que define el xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Código de prácticas tecnológicas] y la Comisión Técnica de Seguridad.
 
-Todos los proyectos y los sistemas deben cumplir con las leyes y los reglamentos existentes, incluidos, entre otros, el Reglamento general de protección de datos, la Ley española de protección de datos, el Decreto 3/2010, de 8 de enero, que regula el Esque-ma Nacional de Seguridad en el Ámbito de la Administración Electrónica, y las normas internacionales con respecto a seguridad, en particular la norma ISO/IEC 27002:2005, que establece directrices y principios generales para iniciar, poner en práctica, mantener y mejorar la gestión de la seguridad de la información en una organización.
+Todos los proyectos y los sistemas deben cumplir con las leyes y los reglamentos existentes, incluidos, entre otros, el Reglamento general de protección de datos, la Ley española de protección de datos, el Decreto 3/2010, de 8 de enero, que regula el Esquema Nacional de Seguridad en el Ámbito de la Administración Electrónica, y las normas internacionales con respecto a seguridad, en particular la norma ISO/IEC 27002:2005, que establece directrices y principios generales para iniciar, poner en práctica, mantener y mejorar la gestión de la seguridad de la información en una organización.
 
 La seguridad física o lógica de los datos estará determinada por los estándares definidos por el IMI.
 
@@ -89,13 +89,13 @@ También será necesario que se identifiquen las diferencias entre el presupuest
 Este eje establece los principios y las directrices para gestionar correctamente los datos, de acuerdo con los principios indicados en esta medida.
 Los aspectos más técnicos de esta gestión se incorporan en el xref:{lang}/tech-practices:ROOT:aim-and-scope.adoc[Código de prácticas tecnológicas], publicado bajo la Medida de gobierno para la digitalización abierta: _software libre_ y desarrollo ágil de servicios, de octubre del 2017.
 
-SLos entes dependientes municipales deberán gestionar los datos de una forma responsable, inventariar y registrar los procesos de trata-miento autorizados, identificar las fuentes de los datos y sus metadatos básicos, garantizarles un ciclo de vida correcto, y tener en cuenta a las personas usuarias en el momento de determinar su formato o frecuencia de actualización, entre otras consideraciones de la gestión de datos.
+SLos entes dependientes municipales deberán gestionar los datos de una forma responsable, inventariar y registrar los procesos de tratamiento autorizados, identificar las fuentes de los datos y sus metadatos básicos, garantizarles un ciclo de vida correcto, y tener en cuenta a las personas usuarias en el momento de determinar su formato o frecuencia de actualización, entre otras consideraciones de la gestión de datos.
 Deben colaborar con las otras entidades en la promoción de unos servicios públicos eficientes para cumplir con todas las políticas de transparencia y las que tienen relación con la privacidad, la seguridad y la accesibilidad.
 
 Específicamente, los entes deben seguir todos los procesos establecidos por el o por la DPD con respecto al cumplimiento riguroso de la normativa de protección de datos, notificar a la Autoridad Catalana de Protección de Datos la creación de bases de datos cuando sea necesario, y nombrar a las personas responsables y encargadas de los datos.
-Se deberá minimizar la recogida de datos personales, aplicar la anonimización o pseudoanonimización siempre que sea posible, obtener el consentimiento de las personas interesadas, y tener en cuenta la repercusión de cada acción en cada uno de los momentos del ciclo de vida de los datos sobre cada uno de los otros mo-mentos o personas interesadas.
+Se deberá minimizar la recogida de datos personales, aplicar la anonimización o pseudoanonimización siempre que sea posible, obtener el consentimiento de las personas interesadas, y tener en cuenta la repercusión de cada acción en cada uno de los momentos del ciclo de vida de los datos sobre cada uno de los otros momentos o personas interesadas.
 
-=== +++<u>PRINCIPIOS RECTORES DE LA GESTIÓN ÉTICA Y RESPONSA-BLE DE LOS DATOS</u>+++
+=== +++<u>PRINCIPIOS RECTORES DE LA GESTIÓN ÉTICA Y RESPONSABLE DE LOS DATOS</u>+++
 
 Los entes dependientes municipales deberán incorporar los siguientes pasos en la planificación, la presupuestación y la gestión, cuando sea adecuado:
 
@@ -114,7 +114,7 @@ Es necesario considerar los costes de este servicio público para la entidad, ya
 Los entes deben almacenar la información de manera que se permita la interoperabilidad entre los sistemas de información y, siempre que sea adecuado, su difusión pública mediante el uso de formatos abiertos, estándares de datos y metadatos.
 Las entidades también deben poner a disposición del público mecanismos para obtener una retroacción en relación con los datos.
 
-Los sistemas de financiación municipales de-ben poder premiar las unidades que incluyan, en sus contratos de servicios, sistemas de preservación a largo plazo de los datos propios y de su acceso.
+Los sistemas de financiación municipales deben poder premiar las unidades que incluyan, en sus contratos de servicios, sistemas de preservación a largo plazo de los datos propios y de su acceso.
 
 El Ayuntamiento y todas las unidades del grupo municipal deberán observar un conjunto de procedimientos orientados a mejorar la adquisición de los datos y que posibiliten una gestión de los datos efectiva, económica, segura, ética, abierta y que garantice la privacidad.
 La planificación se debe centrar en los datos que soportan la misión de cada unidad, y se deben implantar procesos de gestión que se integren en la programación y la ejecución presupuestaria.
@@ -128,12 +128,12 @@ Como apoyo a las necesidades de gestión y a la misión del Ayuntamiento de Barc
 El PGD deberá mostrar cómo se relaciona el mapa de los objetivos de los recursos de TI con la misión y las prioridades de la unidad.
 Es necesario que los objetivos sean específicos, mensurables y verificables, de manera que se pueda monitorizar su progreso.
 
-Un ejemplo de proyecto emblemático en el área de presupuesto es Presupuesto Abierto, una herramienta para facilitar el análisis y la comprensión de los presupuestos del Ayun-tamiento de Barcelona para la ciudadanía.
-El proyecto permite descargar datos en forma-tos abiertos, navegar desde los datos presu-puestarios más agregados hasta el máximo nivel de detalle, tanto para el ejercicio actual como para los últimos ejercicios.footnote:[http://ajuntament.barcelona.cat/estrategiaifinances/pressupostobert/ca/.]
+Un ejemplo de proyecto emblemático en el área de presupuesto es Presupuesto Abierto, una herramienta para facilitar el análisis y la comprensión de los presupuestos del Ayuntamiento de Barcelona para la ciudadanía.
+El proyecto permite descargar datos en formatos abiertos, navegar desde los datos presupuestarios más agregados hasta el máximo nivel de detalle, tanto para el ejercicio actual como para los últimos ejercicios.footnote:[http://ajuntament.barcelona.cat/estrategiaifinances/pressupostobert/ca/.]
 
 === +++<u>INVENTARIO</u>+++
 
-Las unidades deberán mantener un inventario footnote:[_El inventario de cada unidad se integrará a un inventario general del grupo municipal_] de los sistemas de información principales, de sus contenedores y de las herramientas de divulgación con el nivel de detalle que se deter-mine para supervisarlos y gestionarlos.
+Las unidades deberán mantener un inventario footnote:[_El inventario de cada unidad se integrará a un inventario general del grupo municipal_] de los sistemas de información principales, de sus contenedores y de las herramientas de divulgación con el nivel de detalle que se determine para supervisarlos y gestionarlos.
 En este inventario habrá que identificar los conjuntos de datos con información de carácter personal y se determinarán unos procedimientos para permitir revisar regularmente que estos datos tienen la calidad necesaria, que se puede dar respuesta a los derechos de las personas interesadas y que son los mínimos imprescindibles para desarrollar las competencias y las funciones de la unidad.
 Por otra parte, cada unidad deberá mantener un registro que recoja todas las acciones realizadas sobre las bases de datos tanto de gestión como analíticas.
 La Oficina Municipal de Datos debe determinar la metainformación de estos sistemas.
@@ -145,7 +145,7 @@ Las unidades y los entes dependientes deberán poder facilitar, de una forma con
 === +++<u>GESTIÓN DE RIESGOS</u>+++
 
 Las unidades deberán valorar las medidas de seguridad de la información y los datos, la gestión de registros, la transparencia, la evaluación de impacto y las cadenas de suministro, y hacerlo durante todo el ciclo de datos, de forma que los riesgos estén evaluados y gestionados.
-Además, deberán elaborar un plan en coordinación con el o la DPD, el o la CDO y el CTID para que los sistemas de información estén debidamente protegidos y asegurados y, al mismo tiempo, las acciones de actualización, revisión, sustitución o retirada tengan el máximo nivel de prioridad.footnote:[_Incluye hardware, software o componentes de firmware no mantenidos por sus desarrolladores, vendedores o fa-bricantes mediante la disponibilidad de parches de software, actualizaciones de firmware, recambios y contratos de mantenimiento_]
+Además, deberán elaborar un plan en coordinación con el o la DPD, el o la CDO y el CTID para que los sistemas de información estén debidamente protegidos y asegurados y, al mismo tiempo, las acciones de actualización, revisión, sustitución o retirada tengan el máximo nivel de prioridad.footnote:[_Incluye hardware, software o componentes de firmware no mantenidos por sus desarrolladores, vendedores o fabricantes mediante la disponibilidad de parches de software, actualizaciones de firmware, recambios y contratos de mantenimiento_]
 También es necesario que periódicamente se revisen y se reporten los riesgos sobre procesos, personas y tecnologías.
 
 
@@ -179,10 +179,10 @@ El conjunto de datos municipales está almacenado en sistemas diversos según la
 City OS permite disponer de una capa analítica para todos los datos.
 Se ha desarrollado de manera que permite gestionar el conocimiento de los diferentes datos municipales de forma autónoma a los sistemas de datos de gestión operativa.
 Es decir, independiza los análisis de los datos y la gestión operativa.
-Los datos están organiza-dos según un sistema de ontologías orientado a crear conocimiento analítico._
+Los datos están organizados según un sistema de ontologías orientado a crear conocimiento analítico._
 
 * *Repositorio municipal seguro verificado*: Este repositorio de preservación archivística deberá garantizar el acceso continuado a todos los datos, los registros o los recursos de información municipales que, después de unos procesos de evaluación archivísticos, hayan sido seleccionados para una preservación permanente.
-El repositorio seguro debe garantizar la autenticidad de los datos alma-cenados y evitar la obsolescencia de los mate-riales digitales, pero permitiendo la sostenibilidad de esta herramienta a largo plazo.
+El repositorio seguro debe garantizar la autenticidad de los datos almacenados y evitar la obsolescencia de los materiales digitales, pero permitiendo la sostenibilidad de esta herramienta a largo plazo.
 
 Será necesario escribir una política de información que contemple todos los datos y sus procesos obligatorios para llevar a cabo el ciclo de vida y poder llevarlos hacia el city lake o hacia el repositorio seguro de preservación, según se quiera.
 Para hacerlo, hará falta la colaboración estrecha tanto del IMI (proveedor de tecnología y responsable del desarrollo y el mantenimiento de la infraestructura tecnológica del Ayuntamiento) como de las diferentes unidades y servicios que tienen infraestructuras propias.
@@ -198,10 +198,10 @@ Se deben definir los requerimientos basados en atributos para acceder a informac
 En el ámbito del proyecto emblemático de City OS, se llevarán a cabo diferentes subproyectos, como por ejemplo:
 
 * *Mejoras del API de ODI.* Mejora del por tal del Open Data BCN (ODI) de Barcelona para centrarlo en la reutilización y en las personas desarrolladoras; añadir capacitados de registro de APP, control de acceso, boletín de noticias y mejorar la documentación del API para que sea fácil de utilizar por personas desarrolladoras.
-* *IGLU.* Convergencia de diferentes con-juntos de datos en una solución de almacenamiento unificado (lago de datos) a través de la estandarización y la transformación API del proyecto City OS; aprovechando nuevas ofertas de infraestructuras clave, adaptarlas a un nuevo estándar unificado de operabilidad.
+* *IGLU.* Convergencia de diferentes conjuntos de datos en una solución de almacenamiento unificado (lago de datos) a través de la estandarización y la transformación API del proyecto City OS; aprovechando nuevas ofertas de infraestructuras clave, adaptarlas a un nuevo estándar unificado de operabilidad.
 * *API standardization.* Definición y puesta en práctica de estándares para la guía de compra de tecnología para asegurar la interoperabilidad de los proveedores de datos del Ayuntamiento.
 * *Protocolos para abrir los datos abiertos.* Definición del protocolo que se debe seguir para incluir datos de manera proactiva al catálogo de datos abiertos, en particular para funcionarios y funcionarias de la ciudad dispuestos a hacerlo.
-* *Conexión con la infraestructura DE-CODE:* Conexión de City OS, IRIS, ASIA, SENTILO
+* *Conexión con la infraestructura DECODE:* Conexión de City OS, IRIS, ASIA, SENTILO
 i	BCNOpenData en la plataforma experimental DECODE. (https://decodeproject.eu/)
 
 == Innovación interna basada en los datos: analítica y proyectos basados en datos
@@ -214,14 +214,14 @@ En este sentido, es bueno aprender de experiencias avanzadas en este ámbito, de
 Las organizaciones modernas se caracterizan por la necesidad de gestionar sus servicios y procesos, fundamentados en un conjunto de bases de datos que se han multiplicado en los últimos años y que no dejarán de crecer en un futuro próximo.
 La gestión eficiente, coordinada y estructurada de los datos contribuye a diferentes objetivos en una organización como el Ayuntamiento de Barcelona. Más allá de las finalidades específicas e instrumentales de cada base de datos, la gobernanza global debe permitir dos objetivos irrenunciables en una organización pública moderna:
 
-* *La gestión con conocimiento*: se trata de diseñar e implementar proyectos y servicios basados en datos (_data driven_) haciendo un uso intensivo de los datos, de metodologías de analítica de datos y de la data science o ciencia de datos, para adaptar los servicios a las necesidades reales de la ciudadanía, res-ponder a problemas reales, identificar y gestionar riesgos reales y reducir errores.
+* *La gestión con conocimiento*: se trata de diseñar e implementar proyectos y servicios basados en datos (_data driven_) haciendo un uso intensivo de los datos, de metodologías de analítica de datos y de la data science o ciencia de datos, para adaptar los servicios a las necesidades reales de la ciudadanía, responder a problemas reales, identificar y gestionar riesgos reales y reducir errores.
 
 * *El empoderamiento ciudadano*: se trata de devolver a la ciudadanía el control de sus datos mediante herramientas y procesos municipales, dándole la posibilidad de decidir sobre los usos que se hacen de sus datos y para qué propósitos; y de ofrecer servicios y proyectos que empoderan a la ciudadanía y le otorgan más control sobre la actuación de la ciudad.
 
 Las necesidades de creación de conocimiento e inteligencia del Ayuntamiento de Barcelona han sido y siguen siendo estratégicas.
 En los últimos años, el volumen de información se ha multiplicado exponencialmente (big data).
 Pero las herramientas analíticas corporativas no pueden dar respuesta al manejo razonable de este volumen de información; la información disponible se encuentra dispersa (mayoritariamente en hojas de cálculo), inconexa y sujeta a un mantenimiento no programado.
-Delante de este “agujero”, se han emprendido diferentes iniciativas para crear una plataforma y una cultura de datos accesibles y centralizados y la cul-tura correspondiente para alimentar y, próximamente, utilizar los datos de la plataforma: en particular el City OS, el proyecto de depósito de información corporativa centralizada que debe permitir la obtención, la preparación, la organización y el análisis de los datos a los servicios municipales y a la ciudadanía en general para fomentar estos proyectos basados en datos a través del Ayuntamiento y también fuera (ver la siguiente sección sobre _open data_)
+Delante de este “agujero”, se han emprendido diferentes iniciativas para crear una plataforma y una cultura de datos accesibles y centralizados y la cultura correspondiente para alimentar y, próximamente, utilizar los datos de la plataforma: en particular el City OS, el proyecto de depósito de información corporativa centralizada que debe permitir la obtención, la preparación, la organización y el análisis de los datos a los servicios municipales y a la ciudadanía en general para fomentar estos proyectos basados en datos a través del Ayuntamiento y también fuera (ver la siguiente sección sobre _open data_)
 
 La nueva cultura de los datos debe permitir el flujo de la información y del conocimiento a través de la organización de una forma mucho más eficiente.
 Sin embargo, en el mundo actual no es suficiente con obtener y analizar los datos en procesos post mortem.
@@ -232,7 +232,7 @@ Desde esta perspectiva, la OMD debe tener un papel relevante en los elementos cl
 
 La analítica debe responder un máximo de preguntas en relación con diferentes ejes:
 
-* Ciudadanía: la mejora de la satisfacción de la ciudadanía con la gestión municipal, la racionalización de procesos, el aumento de la efi-ciencia, la adaptación a las nuevas necesidades.
+* Ciudadanía: la mejora de la satisfacción de la ciudadanía con la gestión municipal, la racionalización de procesos, el aumento de la eficiencia, la adaptación a las nuevas necesidades.
 * Gestión interna: integración de la analítica en las aplicaciones y los indicadores.
 * Gestión del riesgo: enriquecimiento de servicios con analítica avanzada.
 * Difusión: la aportación de más valor y calidad a los productos analíticos al servicio de la comunidad como los open data o la estadística.
@@ -253,8 +253,8 @@ Los proyectos emblemáticos en este eje son los siguientes:
 
 * *Cuadro de Mando de la Gerencia Municipal*: herramienta de visualización de datos que explica el estado de la ciudad en tiempo real.
 
-* *Observatorio Metropolitano de la Vivienda de Barcelona (O-HB)*: el Ayuntamiento de Barcelona, el Área Metropolitana de Barcelona, la Diputación de Barcelona y la Generalitat de Catalunya han creado un instrumento de ámbito supramunicipal para analizar y consultar los datos relacionados con la vivienda.
-Se presenta como la herramienta de referencia para la ciudadanía y las administraciones en cuestiones relativas a la vivienda, una herramienta para evaluar y diseñar las políticas de vivienda y analizar y consultar los datos dis-ponibles sobre esta materia.
+* *Observatorio Metropolitano de la Vivienda de Barcelona (OHB)*: el Ayuntamiento de Barcelona, el Área Metropolitana de Barcelona, la Diputación de Barcelona y la Generalitat de Catalunya han creado un instrumento de ámbito supramunicipal para analizar y consultar los datos relacionados con la vivienda.
+Se presenta como la herramienta de referencia para la ciudadanía y las administraciones en cuestiones relativas a la vivienda, una herramienta para evaluar y diseñar las políticas de vivienda y analizar y consultar los datos disponibles sobre esta materia.
 
 == Barcelona Data Exchange: la valorización externa de los datos
 
@@ -262,75 +262,72 @@ El Ayuntamiento de Barcelona recoge y publica regularmente un conjunto important
 
 El objetivo de esta línea de trabajo es crear el BCN Data Exchange, un elemento esencial del *_data commons_*, y organizar, centralizar y mejorar los formatos, la reusabilidad (mediante la interoperabilidad) y el acceso de estos datos publicados por el Ayuntamiento, tanto desde la perspectiva técnica (basada en el City OS), como relacional, y establecer contactos con los grupos de personas usuarias y reusuarias (reusers) de datos de Barcelona e intentar mostrar nuestra visión de los datos como bien público que se debe compartir bajo unas reglas claras y transparentes.
 
-El proyecto de BCN Data Exchange quiere co-nectar la ciudad con las personas más interesadas en los datos (stakeholders), comprender su percepción de los datos e intentar construir un marco que anime al uso responsable de los datos y que se ve como un proveedor para construir soluciones y servicios y no como un bien propietario que ofrece una ventaja.
+El proyecto de BCN Data Exchange quiere conectar la ciudad con las personas más interesadas en los datos (stakeholders), comprender su percepción de los datos e intentar construir un marco que anime al uso responsable de los datos y que se ve como un proveedor para construir soluciones y servicios y no como un bien propietario que ofrece una ventaja.
 Además, la ciudad escuchará sus aportaciones sobre cuestiones relacionadas con las ofertas públicas y las prácticas de intercambio de datos.
 
 
-Esta línea contiene tareas dedicadas a preparar y publicar los datos de la ciudad, con la infraestructura necesaria para hacerlo, y a involucrar una comunidad de personas usuarias profesionales y consumidoras proactivas (_pro-sumers_) de datos en un diálogo constructivo, que abarca el conjunto de datos y la apertura de infraestructuras.
+Esta línea contiene tareas dedicadas a preparar y publicar los datos de la ciudad, con la infraestructura necesaria para hacerlo, y a involucrar una comunidad de personas usuarias profesionales y consumidoras proactivas (_prosumers_) de datos en un diálogo constructivo, que abarca el conjunto de datos y la apertura de infraestructuras.
 
-Actualmente, de esta información —que incluye datos de naturaleza y formato diversos (datos sin tratar, indicadores, tablas estadísticas, estudios de opinión, encuestas, mapas, análisis sectoriales, etcétera)—, una parte importan-te se acumula y se publica de forma manual o semiautomática a través de distintos departa-mentos/webs municipales:
+Actualmente, de esta información —que incluye datos de naturaleza y formato diversos (datos sin tratar, indicadores, tablas estadísticas, estudios de opinión, encuestas, mapas, análisis sectoriales, etcétera)—, una parte importante se acumula y se publica de forma manual o semiautomática a través de distintos departamentos/webs municipales:
 
-* *BCN Statistics*, which includes access to nearly 36,000 of the city's statistical tables, information by district and neighbourhood, the historical archive of statistics year books in PDF, as well as an application for consulting and the dynamic generation of displays.
-Barcelona City Council's Statistics Department specialises in the theory and practice of collecting data and the analyses and presentations needed to turn them into useful information.
+* *Estadística BCN*, que incluye acceso a cerca de 36.000 tablas estadísticas de la ciudad, información por distritos y barrios, el archivo histórico de anuarios estadístico en PDF, así como una aplicación de consulta y generación dinámica de visualizaciones.
+El Departamento de Estadística es un departamento del Ayuntamiento de Barcelona especializado en la teoría y la práctica de la recogida de datos y en los análisis y las presentaciones necesarias para convertirlos en información útil.
 
-* *Open Data BCN* began in 2010.
-The portal was presented in 2011, in order to make certain datasets available to the general public, including open data, or opening up public sector information and allowing access and reuse for the common good and for the benefit of interested individuals and organisations.
-The Open Data BCN project, which covers various pillars of the city's strategy, is based on the main international standards and recommendations and adopts some characteristics that sum up the principles of this movement.
+* *Open Data BCN* nació el año 2010 y el portal se presentó el año 2011 para poner determinados conjuntos de datos a disposición del público como open data o apertura de información del sector público y para permitir su acceso y su reutilización para el bien común y para el beneficio de las personas y las entidades interesadas.
+El proyecto Open Data BCN, transversal en diferentes pilares de la estrategia de la ciudad, se basa en los principales estándares y recomendaciones internacionales y adopta algunas características que resumen los principios de este movimiento.
 
-* *BCNROC* is Barcelona City Council's open-access institutional repository, through which the Council provides free access to its public digital documents.
-BCNROC is an advanced search engine, using modern search technology, that includes extensive descriptive metadata in order to ensure that individual users have a good experience in searching for and reusing information.
-BCNROC eliminates economic, technological and legal barriers for accessing municipal digital documents and it aims to guarantee permanent access to those digital files.
-This tool makes it possible to collect, store, manage, share, transform and disseminate municipal information resources and the associated metadata, as well as facilitating searches and being able to access and reuse them at a later date.
+* •	BCNROC (Repositorio Abierto de Conocimiento) es el repositorio institucional de acceso abierto del Ayuntamiento de Barcelona, mediante el cual el Ayuntamiento ofrece acceso libre y gratuito a sus documentos digitales de difusión pública.
+BCNROC es un sistema de búsqueda avanzado, con una tecnología de búsqueda moderna, que incluye metadatos descriptivos extensos para asegurar a la persona usuaria una buena experiencia de búsqueda y la reutilización de la información.
+BCNROC elimina las barreras económicas, tecnológicas y jurídicas para acceder a la documentación digital municipal y tiene la voluntad de garantizar el acceso permanente a estos ficheros digitales.
+Es la herramienta que permite recoger, almacenar, gestionar, compartir, transformar y difundir los recursos de información de autoría municipal y sus metadatos, y facilitar las búsquedas y su posterior recuperación, acceso y reutilización.
 
-* *CBAB* is the catalogue of Barcelona City Council libraries that contains descriptive metadata on the internal and external information resources that Barcelona City Council needs for its everyday work, and offers a direct link to online resources, which are available to the council and all city residents, who can consult them directly or ask to borrow them through SEDAC.
+* *CBAB* es el catálogo de las bibliotecas del Ayuntamiento de Barcelona que recoge los metadatos descriptivos de los recursos de información internos y externos que el Ayuntamiento de Barcelona necesita para su tarea diaria, y ofrece un enlace directo a los recursos disponibles en línea, los cuales están a disposición de la corporación y también de toda la ciudadanía, que puede consultarlos directamente o pedirlos en préstamo a través del SEDAC.
 
-* *Barcelona Economía* is the Barcelona City Council website that monitors the city's economy, based on collection and evaluation of how the main situation indicators for Barcelona and its Metropolitan Area are behaving.
-Barcelona Economia includes a large number of mainly economic tables and graphs, grouped by sub-themes, which are usually accompanied by a brief analysis, as well as PDF documents on the economic situation, historical publications, etc.
+* *Barcelona Economía* es el sitio web del Ayuntamiento de Barcelona donde se hace el seguimiento de la economía de la ciudad a partir de una recopilación y de una valoración del comportamiento de los indicadores principales de coyuntura de Barcelona y de su entorno metropolitano.
+Barcelona Economía incluye numerosas tablas y gráficos, esencialmente económicos, agrupados por subtemas y que suelen ir acompañados de un breve análisis, así como documentos en PDF sobre coyuntura económica, publicaciones históricas, etcétera.
 
-* The *Survey and opinion-poll registry* includes opinion polls commissioned by the City Council on the evaluation of services, use of time, mobility, cultural consumption, etc.
-Some of the results are already included in the statistics portal, in table format, while others are in document format.
+* El *Registro de encuestas y estudios de opinión* incluye los trabajos demoscópicos encargados por el Ayuntamiento sobre valoración de servicios, usos del tiempo, movilidad, consumos culturales, etcétera.
+Algunos de los resultados ya están incorporados en formato de tabla en el portal de estadísticas, mientras que otros están en formato documento.
 
-* The *Geoportal* and web services for Barcelona City Council's Spatial Data Infrastructure make municipal territorial information available through the website using Open Geospatial Consortium (OGC) standards.
-The need for creating a geoservice infrastructure stems from a demand for both internal and external management concerning the interoperability of territorial information.
+* El *Geoportal* y los servicios web de la infraestructura de datos espaciales del Ayuntamiento de Barcelona permiten poner al alcance del público la información territorial municipal a través del web, utilizando los estándares del Open Geospatial Consortium (OGC).
+La necesidad de crear una infraestructura de geoservicios se fundamenta en una demanda tanto de gestión interna como externa en el ámbito de la interoperabilidad de la información territorial.
 
-* *CartoBCN:* is a website for downloading Barcelona City Council cartography, aimed at end users.
-It is a Department of Basic Information and Cartography project which aims to become Barcelona City Council's centre of cartographic production.
+* *CartoBCN*: es el web de descargas de cartografía del Ayuntamiento de Barcelona destinado a personas usuarias finales, un proyecto de la Dirección de Información de Base y Cartografía que tiene el objetivo de convertirse en el centro de producción cartográfica del Ayuntamiento de Barcelona.
 
-With the aim of facilitating and promoting the use of all this accumulated information and knowledge, Barcelona City Council plans to design and set in motion *a new portal for consulting and exploring information*, based on City OS, which centralises all the currently managed and published information and documents in a single website, i.e. to create the *Barcelona Data Exchange*, with various objectives:
+Con el objetivo de facilitar y potenciar el uso de toda esta información y conocimiento acumulado, el Ayuntamiento de Barcelona se propone diseñar y poner en marcha *un nuevo portal de consulta y exploración de información*, asentado sobre el City OS, que centralice en un solo web el conjunto de información y documentos gestionados y publicados actualmente, es decir, crear el *Barcelona Data Exchange*, con distintos objetivos:
 
-* To centralise all the currently managed and published information and documents in a single website environment.
-* To offer a new consultation experience that is more dynamic, interactive and graphic, where users can quickly explore the wide range of information available.
-* To add new functions for consuming, sharing and disseminating information related to Barcelona, addressed to various user profiles: city residents, students, technical and research personnel, etc.
-* To open up a new environment for exploring and consulting information that is freer, more direct and more user-friendly.
-* To offer a new way of presenting more graphic and more interactive information, with greater capacity for sharing.
-* To have a new data architecture connected to the City Council's City OS, which makes it possible to explore and show a diverse range of content (data in various formats for later exploration, PDF documents, pages and posts in HTML, etc.) and where it is easier to administer and manage content.
+* Centralizar, en un único entorno web, el conjunto de información y documentos gestionados y publicados actualmente.
+* Ofrecer una nueva experiencia de consulta más dinámica, interactiva y gráfica donde la persona usuaria pueda explorar rápidamente el amplio conjunto de información disponible.
+* Añadir nuevas funcionalidades para consumir, compartir y difundir información relevante de Barcelona pensando en los diferentes perfiles usuarios: ciudadanía, estudiantes, personal técnico o investigador, etcétera.
+* Abrir un nuevo entorno para explorar y consultar información de una forma más libre, directa y amigable.
+* •	Ofrecer una forma nueva de presentar la información: más gráfica, más interactiva y con más capacidad de compartirla.
+* Tener una arquitectura de datos nueva: conectada al City OS del Ayuntamiento, que permita explorar y mostrar contenidos de naturaleza diversa (datos con formatos diferentes para una explotación posterior, documentos en PDF, páginas y posts en HTML, etcétera) y que tenga más facilidad de administración y gestión de contenidos.
 
-This new Barcelona data portal will be aimed at users with different profiles and needs, from municipal political and technical personnel, who need to have access to vital, complete information on the dynamics which affect their decision-making, to normal city residents who are looking for specific information or who are curious about some urban information or indicators.
-This involves controlling security, by applying various profiles and functions.
-Between these extremes there are researchers, journalists and students, who have different needs, in terms of the type, quantity and amount of detail given in city information.
+Este nuevo portal de datos de Barcelona irá dirigido a personas usuarias de perfiles y necesidades diferentes: desde personal responsable político y técnico municipal que necesita tener acceso a información clave y completa sobre dinámicas que afectan a su toma de decisiones, hasta el ciudadano o ciudadana normal que busca algún dato concreto o que puede tener curiosidad por alguna información o indicador urbano.
+Eso implica controlar la seguridad aplicando los diferentes perfiles y funciones.
+En medio, hay personas de ámbitos como la investigación o el periodismo o estudiantes, que tienen necesidades diferentes con respecto a la tipologia, la cantidad y el grado de detalle de las informaciones de la ciudad.
 
-With regard to the city's current data repository and website projects, the Barcelona Data Exchange will improve access to information and compliance with FAIR principles for open scientific data with interoperable data and standard formats.
+Con respecto a los proyectos actuales de repositorios y webs de datos de la ciudad, el Barcelona Data Exchange permitirá mejorar el acceso a la información y el cumplimiento de los principios FAIR para datos abiertos científicos con datos interoperables y con formatos estándares:
 
-* Improving the access and interoperability of municipal statistical data on the city as a system and its socio-economic, demographic and urban planning reality, with reliable statistical data that is efficient and up-to-date, and now interoperable and standardised.
+* Mejorará el acceso y la interoperabilidad de los datos de la estadística municipal sobre la ciudad como sistema y su realidad socioeconómica, demográfica y urbanística, con un conjunto de datos estadísticos fiable, eficiente y actualizado, y, ahora, interoperable y estándar.
 
-* As a central feature of the “Barcelona Digital City” data strategy, improving the functions of Open Data BCN will foster a plural digital economy with a new model of urban innovation based on the digital transformation and innovation of the public sector and collaboration between companies, administrations, the academic world, organisations, communities and people, with clear public and citizen leadership.
+* Como elemento central de la estrategia de datos de “Barcelona ciudad digital”, la mejora de las funcionalidades de Open Data BCN fomentará una economía digital plural con un modelo nuevo de innovación urbana basado en la transformación y la innovación digital del sector público y la implicación entre las empresas, las administraciones, el mundo académico, las organizaciones, las comunidades y las personas, con un liderazgo público y ciudadano claro.
 
-* BCNROC's current stock of municipal documents already acts as a sole repository, used by the other municipal websites that disseminate municipal documents, and it will now be incorporated into the Barcelona Data Exchange.
-It's information is interoperable with other national and international open-access repositories, as it supports the OAI-PMH (Open Access Initiative Protocol for Metadata Harvesting) standards and protocols and enables the reuse of documents using the most open Creative Commons licenses possible.
-It also complies with the Dublin Core metadata standards to help facilitate the Semantic Web.
-These principles will be extended to the other datasets, whose managers will be able to make good use of the experience and competence of those in charge of BCNROC.
+* La documentación municipal actual de BCNROC ya sirve de repositorio único al cual apuntan las otras webs municipales que difunden documentación municipal, y ahora se incorporará al Barcelona Data Exchange.
+Su información es interoperable con otros repositorios de acceso abierto nacionales e internacionales, porque soporta los estándares y protocolos OAIPMH (Open Archives Initiative Protocol for Metadata Harvesting), permite la reutilización de la documentación empleando las licencias Creative Commons más abiertas posibles y cumple con los estándares de metadatos Dublin Core para contribuir a facilitar la web semántica.
+Estos principios se extenderán al resto de conjuntos de datos, cuyos gestores podrán aprovechar la experiencia y la competencia de los responsables de BCNROC.
 
-* Similarly, the Barcelona Economia data will be more usable, and the ongoing register of indicators will be made available to the public in an organised series of data, as well as the information and evaluation of methodological changes carried out to obtain them, which are relevant for interpreting their evolution over time.
+* De la misma forma, los datos de Barcelona Economía serán más utilizables, y se pondrá a la disposición del público el registro continuado de indicadores en un conjunto ordenado de datos seriados, pero también la información y la valoración de los cambios metodológicos hechos para obtenerlos y que son relevantes para interpretar su evolución temporal.
 
-In this sense, initiatives for the external publication and evaluation of data include actions such as:
+En este sentido, las iniciativas para la publicación y la valorización “externa” de datos contempla acciones como:
 
-* Using and correlating existing data-science initiatives under the name of the City Council, in order to generate a space in the Open Data BCN portal where selected scientists can contribute and maintain data.
-* Using the “NUMA DataCity” programme to set challenges for resolving city problems and promote the conscious positioning of the common-data programme's objectives for entrepreneurs and emerging companies.
-* Opening WiFi data: an API service providing access to Barcelona WiFi data while also complying with privacy obligations.
-* Opening Sentilo data: will be made accessible to a wider public, with a protocol and API for official access to Sentilo, in order to consult information, and the appropriate documentation of all the datasets present on the platform.
+* Utilizar y vincular las iniciativas científicas de datos (data science) existentes bajo el paraguas del Ayuntamiento, para generar un espacio en el portal Open Data BCN en el cual los científicos seleccionados podrán aportar datos y también mantenerlo.
+* Utilizar del programa "NUMA DataCity" para establecer desafíos para resolver los problemas de la ciudad y promover el posicionamiento consciente de los objetivos del programa de datos comunes para empresarios y empresas emergentes.
+* *Opening WiFi Data:* un servicio API para dar acceso a los datos de Barcelona WiFi y cumplir igualmente las obligaciones de privacidad.
+* *Opening Sentilo Data:* se hará accesible para un público más amplio, con un protocolo y API para el acceso oficial a Sentilo para realizar consultas, y una documentación adecuada de todos los conjuntos de datos presentes en la plataforma.
 
-The emblematic projects in this area are:
+Los proyectos emblemáticos de este eje son los siguientes:
 
-* *BCN Data Store:* this will be the public library for services, easy to use and scalable as the services offered by the Municipal Data Office are developed.
-* *BCNOpenData:* the improvements to BCNOpenData's functionality make it possible to access and reuse the data generated or kept by public bodies, for the common good of interested people and organisations.
-* *Data City Challenges:* ensuring the utmost efficiency in the services offered by the City Council, we will use datasets and the city as an experimental model for seeking solutions to major urban problems.
+* *BCN Data Store:* será la biblioteca pública de servicios, fácil de usar y escalable a medida que se desarrollen los servicios ofrecidos por la Oficina Municipal de Datos.
+* *BCNOpenData:* las mejoras en las funcionalidades de BCNOpenData permiten el acceso y la reutilización, para el bien común y para el beneficio de personas y entidades interesadas, de los datos generados o custodiados por los organismos públicos.
+* *Data City Challenges:* procurando tener la mejor eficiencia en los servicios que presta el Ayuntamiento, utilizaremos conjuntos de datos y la ciudad como modelo de experimentación para buscar soluciones a los principales retos urbanos.

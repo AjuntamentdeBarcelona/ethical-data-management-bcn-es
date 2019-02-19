@@ -16,7 +16,7 @@ include::{partialsdir}/README.adoc[tag=metadata]
 * xref:scope.adoc[Ámbitos de aplicación]
 * xref:governance.adoc[Gobernanza de los datos municipales: la Oficina Municipal de Datos]
 * xref:areas.adoc[Ejes estratégicos]
-* xref:projects.adoc[Emblematic projects]
+* xref:projects.adoc[Proyectos emblemáticos]
 * xref:references.adoc[References]
 
 .$$BOTTOM
