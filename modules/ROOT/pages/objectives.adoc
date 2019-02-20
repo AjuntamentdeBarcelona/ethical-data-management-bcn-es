@@ -18,7 +18,7 @@ Los objetivos principales de esta medida son:
 * Identificar la estructura y los mecanismos de gobernanza de los datos, en el sentido más amplio, en el Ayuntamiento de Barcelona.
 * Definir los principios rectores de la actuación del Ayuntamiento respecto de los datos, centrados en el uso ético, la soberanía de los datos, la dimensión social, la garantía de la privacidad y la seguridad, el acceso permanente y la reutilización de los datos.
 * Asegurar la gestión responsable de los datos en todo su ciclo de vida respetando los principios para datos FAIR (siglas en inglés de localizables, accesibles, interoperables y reutilizables).
-* Definir la arquitectura de los datos, con su repositorio (*data lake* o lago de datos, y City OS) y las infraestructuras de TI necesarias para permitir su uso.
+* Definir la arquitectura de los datos, con su repositorio (*_data lake_* o lago de datos, y City OS) y las infraestructuras de TI necesarias para permitir su uso.
 * Mejorar el uso interno y externo de los datos del Ayuntamiento para añadirles valor y transformarlos en activo real para una alta valorización corporativa.
 * Desarrollar los procedimientos y los mecanismos para trabajar los datos de una forma sistemática y tan automatizada como sea posible, respetando la legislación vigente y sin poner en peligro la privacidad, la confidencialidad y la seguridad de estos datos.
 
@@ -45,9 +45,9 @@ Eso también se debe hacer reconociendo la necesidad de devolver el control de l
 
 //falta imagen en castellano
 .El Barcelona Data Commons
-image::infografia_{lang}.svg[El Barcelona Data Commons, width=80%]
+image::infografia_{lang}.svg[_EL BARCELONA DATA COMMONS_]
 
-== La Oficina Municipal de Datos y el o la chief data officer (CDO)
+== La Oficina Municipal de Datos y el o la _chief data officer_ (CDO)
 
 Barcelona reconoce la oportunidad que demuestra el uso adecuado de los datos a la hora de tomar decisiones informadas, así como para definir, analizar y resolver los retos actuales de las grandes ciudades, y la necesidad de una gestión responsable y ética de estos datos; por lo tanto, mediante esta medida establece la misión y los objetivos de la nueva *Oficina Municipal de Datos* (OMD), liderada por un director o directora, *_chief data officer_* (CDO), y la dota de los recursos necesarios (humanos, técnicos y económicos) para hacer valer los datos de la ciudad y los datos de la ciudadanía que la ciudad custodia.
 Así, Barcelona sigue el ejemplo encabezado por ciudades norteamericanas importantes como Chicago, Nueva York City y Boston, con sus _chief data officers_ respectivos, y más recientemente también por otras ciudades de Europa como París o Londres, que, mediante el diseño de una nueva estrategia y visión, están valorizando los datos como parte de la infraestructura propia de la ciudad.

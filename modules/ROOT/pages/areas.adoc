@@ -129,7 +129,7 @@ El PGD deberá mostrar cómo se relaciona el mapa de los objetivos de los recurs
 Es necesario que los objetivos sean específicos, mensurables y verificables, de manera que se pueda monitorizar su progreso.
 
 Un ejemplo de proyecto emblemático en el área de presupuesto es Presupuesto Abierto, una herramienta para facilitar el análisis y la comprensión de los presupuestos del Ayuntamiento de Barcelona para la ciudadanía.
-El proyecto permite descargar datos en formatos abiertos, navegar desde los datos presupuestarios más agregados hasta el máximo nivel de detalle, tanto para el ejercicio actual como para los últimos ejercicios.footnote:[http://ajuntament.barcelona.cat/estrategiaifinances/pressupostobert/ca/.]
+El proyecto permite descargar datos en formatos abiertos, navegar desde los datos presupuestarios más agregados hasta el máximo nivel de detalle, tanto para el ejercicio actual como para los últimos ejercicios.
 
 === +++<u>INVENTARIO</u>+++
 
@@ -156,7 +156,7 @@ El plan de resiliencia es esencial para que los servicios puedan seguir ejercien
 Por lo tanto, es necesario que las entidades desarrollen estrategias de continuidad para asegurar que los servicios se puedan restablecer a tiempo para alcanzar sus objetivos.
 Los “atajos manuales” deben formar parte de ello, para que las operaciones críticas puedan tener continuidad mientras no se restablecen los servicios normales.
 
-== La infraestructura de datos de la ciudad (City Data Infrastructure)
+== La infraestructura de datos de la ciudad (_City Data Infrastructure_)
 
 Esta línea de acción quiere fijar las bases en el nivel arquitectónico para permitir agilizar la gestión interna del Ayuntamiento, mejorar el servicio que el Ayuntamiento ofrece a la ciudadanía y facilitar el intercambio conjunto de datos interesantes tanto dentro del Consistorio como fuera, con la sociedad, y asegurar su preservación y acceso continuado.
 El o la CDO y su Oficina serán responsables de entender los datos del Ayuntamiento y de tener una visión unificada y documentada de ellos, así como de mantener, planificar y hacer evolucionar su arquitectura acercándose a un modelo unificado de gestión.
@@ -184,7 +184,7 @@ Los datos están organizados según un sistema de ontologías orientado a crear 
 * *Repositorio municipal seguro verificado*: Este repositorio de preservación archivística deberá garantizar el acceso continuado a todos los datos, los registros o los recursos de información municipales que, después de unos procesos de evaluación archivísticos, hayan sido seleccionados para una preservación permanente.
 El repositorio seguro debe garantizar la autenticidad de los datos almacenados y evitar la obsolescencia de los materiales digitales, pero permitiendo la sostenibilidad de esta herramienta a largo plazo.
 
-Será necesario escribir una política de información que contemple todos los datos y sus procesos obligatorios para llevar a cabo el ciclo de vida y poder llevarlos hacia el city lake o hacia el repositorio seguro de preservación, según se quiera.
+Será necesario escribir una política de información que contemple todos los datos y sus procesos obligatorios para llevar a cabo el ciclo de vida y poder llevarlos hacia el _city lake_ o hacia el repositorio seguro de preservación, según se quiera.
 Para hacerlo, hará falta la colaboración estrecha tanto del IMI (proveedor de tecnología y responsable del desarrollo y el mantenimiento de la infraestructura tecnológica del Ayuntamiento) como de las diferentes unidades y servicios que tienen infraestructuras propias.
 
 Es necesario que las unidades elaboren un documento de arquitectura (DA) que describa la arquitectura disponible, la arquitectura objetivo y el plan para alcanzar esta última.
@@ -202,7 +202,7 @@ En el ámbito del proyecto emblemático de City OS, se llevarán a cabo diferent
 * *API standardization.* Definición y puesta en práctica de estándares para la guía de compra de tecnología para asegurar la interoperabilidad de los proveedores de datos del Ayuntamiento.
 * *Protocolos para abrir los datos abiertos.* Definición del protocolo que se debe seguir para incluir datos de manera proactiva al catálogo de datos abiertos, en particular para funcionarios y funcionarias de la ciudad dispuestos a hacerlo.
 * *Conexión con la infraestructura DECODE:* Conexión de City OS, IRIS, ASIA, SENTILO
-i	BCNOpenData en la plataforma experimental DECODE. (https://decodeproject.eu/)
+i	BCNOpenData en la plataforma experimental DECODE. (_https://decodeproject.eu/_)
 
 == Innovación interna basada en los datos: analítica y proyectos basados en datos
 
@@ -224,7 +224,7 @@ Pero las herramientas analíticas corporativas no pueden dar respuesta al manejo
 Delante de este “agujero”, se han emprendido diferentes iniciativas para crear una plataforma y una cultura de datos accesibles y centralizados y la cultura correspondiente para alimentar y, próximamente, utilizar los datos de la plataforma: en particular el City OS, el proyecto de depósito de información corporativa centralizada que debe permitir la obtención, la preparación, la organización y el análisis de los datos a los servicios municipales y a la ciudadanía en general para fomentar estos proyectos basados en datos a través del Ayuntamiento y también fuera (ver la siguiente sección sobre _open data_)
 
 La nueva cultura de los datos debe permitir el flujo de la información y del conocimiento a través de la organización de una forma mucho más eficiente.
-Sin embargo, en el mundo actual no es suficiente con obtener y analizar los datos en procesos post mortem.
+Sin embargo, en el mundo actual no es suficiente con obtener y analizar los datos en procesos _post mortem_.
 Se requiere la capacidad de analizar los datos en tiempo real y poder elaborar proyecciones y escenarios mediante algoritmos complejos para prever y predecir posibles situaciones futuras y reducir las repercusiones no deseadas.
 Esta capacidad no se puede subrogar, sino que debe estar interiorizada en la organización, ya que es una parte importante de su materia gris. Hasta ahora, los proyectos de servicios digitales han sido liderados desde sectores ajenos a la analítica de datos o la data science (informática, gestores de aplicaciones transaccionales, etcétera).
 Para asegurar el buen funcionamiento del modelo de gestión de análisis de datos, hay que transitar entre el paradigma pasado de la inteligencia de negocio, basada en la selección y la visualización de datos, y un nuevo modelo de ciencia de datos del cual resulten análisis predictivos, análisis prescriptivos o la inteligencia artificial.
@@ -235,7 +235,7 @@ La analítica debe responder un máximo de preguntas en relación con diferentes
 * Ciudadanía: la mejora de la satisfacción de la ciudadanía con la gestión municipal, la racionalización de procesos, el aumento de la eficiencia, la adaptación a las nuevas necesidades.
 * Gestión interna: integración de la analítica en las aplicaciones y los indicadores.
 * Gestión del riesgo: enriquecimiento de servicios con analítica avanzada.
-* Difusión: la aportación de más valor y calidad a los productos analíticos al servicio de la comunidad como los open data o la estadística.
+* Difusión: la aportación de más valor y calidad a los productos analíticos al servicio de la comunidad como los _open data_ o la estadística.
 
 En esta línea, la *OMD* tiene la misión de cambiar la cultura interna de la organización con respecto a la gestión de datos en sus proyectos.
 Dado que los datos y la tecnología asociada a esta disciplina son bastantes nuevos, la OMD ha de proporcionar servicios analíticos de consultoría y de soluciones basadas en datos al resto de unidades.
@@ -260,7 +260,7 @@ Se presenta como la herramienta de referencia para la ciudadanía y las administ
 
 El Ayuntamiento de Barcelona recoge y publica regularmente un conjunto importante de datos, estadísticas, indicadores y estudios sectoriales sobre la ciudad y su entorno con el objetivo que responsables urbanos, personas del ámbito de la investigación, la consultoría y el emprendimiento, o la ciudadanía en general, puedan tener un conocimiento preciso sobre la ciudad, las dinámicas sociodemográficas, la economía, el espacio urbano, el estado de opinión de la ciudadanía sobre materias diversas, etcétera.
 
-El objetivo de esta línea de trabajo es crear el BCN Data Exchange, un elemento esencial del *_data commons_*, y organizar, centralizar y mejorar los formatos, la reusabilidad (mediante la interoperabilidad) y el acceso de estos datos publicados por el Ayuntamiento, tanto desde la perspectiva técnica (basada en el City OS), como relacional, y establecer contactos con los grupos de personas usuarias y reusuarias (reusers) de datos de Barcelona e intentar mostrar nuestra visión de los datos como bien público que se debe compartir bajo unas reglas claras y transparentes.
+El objetivo de esta línea de trabajo es crear el BCN Data Exchange, un elemento esencial del *_data commons_*, y organizar, centralizar y mejorar los formatos, la reusabilidad (mediante la interoperabilidad) y el acceso de estos datos publicados por el Ayuntamiento, tanto desde la perspectiva técnica (basada en el City OS), como relacional, y establecer contactos con los grupos de personas usuarias y reusuarias (_reusers_) de datos de Barcelona e intentar mostrar nuestra visión de los datos como bien público que se debe compartir bajo unas reglas claras y transparentes.
 
 El proyecto de BCN Data Exchange quiere conectar la ciudad con las personas más interesadas en los datos (stakeholders), comprender su percepción de los datos e intentar construir un marco que anime al uso responsable de los datos y que se ve como un proveedor para construir soluciones y servicios y no como un bien propietario que ofrece una ventaja.
 Además, la ciudad escuchará sus aportaciones sobre cuestiones relacionadas con las ofertas públicas y las prácticas de intercambio de datos.
@@ -276,7 +276,7 @@ El Departamento de Estadística es un departamento del Ayuntamiento de Barcelona
 * *Open Data BCN* nació el año 2010 y el portal se presentó el año 2011 para poner determinados conjuntos de datos a disposición del público como open data o apertura de información del sector público y para permitir su acceso y su reutilización para el bien común y para el beneficio de las personas y las entidades interesadas.
 El proyecto Open Data BCN, transversal en diferentes pilares de la estrategia de la ciudad, se basa en los principales estándares y recomendaciones internacionales y adopta algunas características que resumen los principios de este movimiento.
 
-* •	BCNROC (Repositorio Abierto de Conocimiento) es el repositorio institucional de acceso abierto del Ayuntamiento de Barcelona, mediante el cual el Ayuntamiento ofrece acceso libre y gratuito a sus documentos digitales de difusión pública.
+* *BCNROC* (Repositorio Abierto de Conocimiento) es el repositorio institucional de acceso abierto del Ayuntamiento de Barcelona, mediante el cual el Ayuntamiento ofrece acceso libre y gratuito a sus documentos digitales de difusión pública.
 BCNROC es un sistema de búsqueda avanzado, con una tecnología de búsqueda moderna, que incluye metadatos descriptivos extensos para asegurar a la persona usuaria una buena experiencia de búsqueda y la reutilización de la información.
 BCNROC elimina las barreras económicas, tecnológicas y jurídicas para acceder a la documentación digital municipal y tiene la voluntad de garantizar el acceso permanente a estos ficheros digitales.
 Es la herramienta que permite recoger, almacenar, gestionar, compartir, transformar y difundir los recursos de información de autoría municipal y sus metadatos, y facilitar las búsquedas y su posterior recuperación, acceso y reutilización.
@@ -314,7 +314,7 @@ Con respecto a los proyectos actuales de repositorios y webs de datos de la ciud
 * Como elemento central de la estrategia de datos de “Barcelona ciudad digital”, la mejora de las funcionalidades de Open Data BCN fomentará una economía digital plural con un modelo nuevo de innovación urbana basado en la transformación y la innovación digital del sector público y la implicación entre las empresas, las administraciones, el mundo académico, las organizaciones, las comunidades y las personas, con un liderazgo público y ciudadano claro.
 
 * La documentación municipal actual de BCNROC ya sirve de repositorio único al cual apuntan las otras webs municipales que difunden documentación municipal, y ahora se incorporará al Barcelona Data Exchange.
-Su información es interoperable con otros repositorios de acceso abierto nacionales e internacionales, porque soporta los estándares y protocolos OAIPMH (Open Archives Initiative Protocol for Metadata Harvesting), permite la reutilización de la documentación empleando las licencias Creative Commons más abiertas posibles y cumple con los estándares de metadatos Dublin Core para contribuir a facilitar la web semántica.
+Su información es interoperable con otros repositorios de acceso abierto nacionales e internacionales, porque soporta los estándares y protocolos OAIPMH (_Open Archives Initiative Protocol for Metadata Harvesting_), permite la reutilización de la documentación empleando las licencias Creative Commons más abiertas posibles y cumple con los estándares de metadatos Dublin Core para contribuir a facilitar la web semántica.
 Estos principios se extenderán al resto de conjuntos de datos, cuyos gestores podrán aprovechar la experiencia y la competencia de los responsables de BCNROC.
 
 * De la misma forma, los datos de Barcelona Economía serán más utilizables, y se pondrá a la disposición del público el registro continuado de indicadores en un conjunto ordenado de datos seriados, pero también la información y la valoración de los cambios metodológicos hechos para obtenerlos y que son relevantes para interpretar su evolución temporal.

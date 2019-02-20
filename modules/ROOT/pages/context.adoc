@@ -49,7 +49,7 @@ Con respecto a la contratación, básicamente no existe ninguna preocupación so
 En el plano conceptual, hay que mencionar la motivación de este programa.
 Vivimos en un mundo digital, donde el acceso a la tecnología permite transformar muchos aspectos de las sociedades.
 En particular, la tecnología permite la escalabilidad de los procesos y los servicios.
-Eso, junto con una disponibilidad cada vez mayor de datos para medir casi todos los aspectos de la vida ciudadana (las denominadas *big data* o macrodatos), puede poner en peligro el nivel de libertad de los ciudadanos y ciudadanas que viven a nuestras sociedades.
+Eso, junto con una disponibilidad cada vez mayor de datos para medir casi todos los aspectos de la vida ciudadana (las denominadas *_big data_* o macrodatos), puede poner en peligro el nivel de libertad de los ciudadanos y ciudadanas que viven a nuestras sociedades.
 Además, la escalabilidad inherente que ofrecen estas tecnologías, aunque tiene consecuencias positivas con respecto a la eficiencia, también puede conducir a un aumento de las desigualdades existentes.
 
 Como administración pública, el Ayuntamiento está en una posición única para asegurar que eso no suceda.

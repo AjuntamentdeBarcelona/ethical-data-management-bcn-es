@@ -33,12 +33,12 @@ Las gerencias y direcciones de servicio del Ayuntamiento podrán utilizar esta p
 
 == Open Data BCN
 
-El movimiento open public data, o apertura de información del sector público, es un movimiento impulsado por las administraciones públicas con el objetivo principal de aprovechar al máximo los recursos públicos disponibles, exponer la información generada o custodiada por los organismos públicos y permitir su acceso y reutilización para el bien común y para el beneficio de las personas y las entidades interesadas.
+El movimiento _open public data_, o apertura de información del sector público, es un movimiento impulsado por las administraciones públicas con el objetivo principal de aprovechar al máximo los recursos públicos disponibles, exponer la información generada o custodiada por los organismos públicos y permitir su acceso y reutilización para el bien común y para el beneficio de las personas y las entidades interesadas.
 
 Open Data BCN, un proyecto que nació el año 2010, ha ido evolucionando para fomentar una economía digital plural y ha desarrollado un nuevo modelo de innovación urbana basado en la transformación y la innovación digital del sector público y la implicación entre las empresas, las administraciones, el mundo académico, las organizaciones, las comunidades y las personas, con un liderazgo público y ciudadano claro.
 El proyecto Open Data BCN es transversal en distintos pilares de la estrategia de la ciudad, se basa en los principales estándares y recomendaciones internacionales y adopta algunas características que resumen los principios de este movimiento:
 
-* Open data por defecto
+* _Open data_ por defecto
 * Calidad y cantidad de la información
 * Datos para todos
 * Datos para la mejora de la gobernanza
@@ -66,7 +66,7 @@ Su objetivo es tratar de facilitar el acceso a los datos custodiados por la ciud
 También desarrollará una filosofía que enfatiza la explotación de los datos de la ciudad en todas las áreas de la actividad política de la ciudad y ayudará a promover una cultura de intercambio clara del “mercado de datos de la ciudad” tanto en el sector público como en el privado.
 
 BCN Data Store será una biblioteca pública de servicios, fácil de usar y escalable a medida que se desarrollen los servicios ofrecidos por la Oficina Municipal de Datos.
-Para poder hacerlo realidad, se trabajará bajo el concepto “platform as a service” (PaaS).
+Para poder hacerlo realidad, se trabajará bajo el concepto “_platform as a service_” (PaaS).
 
 Integrará comunidades y componentes sociales en todas las entregas y buscará establecer una red de personas y entes socios, miembros, revisores, amigos y seguidores.
 Esta estrategia le debe permitir mejorar día a día y mantener un contacto directo con la ciudadanía, así como con profesionales del mundo de la ciencia de los datos (del ámbito de la investigación o la empresa) o estudiantes.
@@ -107,4 +107,4 @@ Por una parte, se quiere contribuir a completar los “agujeros negros” de inf
 A continuación se presenta el calendario de  ejecución de los proyectos emblemáticos relativos a la nueva estrategia de datos municipal.
 
 //falta imatge en castellà.
-image::Schedule_en.svg[Schedule, width=70%]
+image::Schedule_{lang}.svg[Schedule, width=70%]
