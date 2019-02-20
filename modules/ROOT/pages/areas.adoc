@@ -210,6 +210,7 @@ i	BCNOpenData en la plataforma experimental DECODE. (_https://decodeproject.eu/_
 La importancia de los datos en la Administración no para de crecer.
 Se debe diseñar una estrategia que perdure en el tiempo para llevar a cabo proyectos del Ayuntamiento basados en una explotación innovadora de los datos, realizar una mejora analítica y utilizar metodologías de _big data_ para no quedarnos atrás con respecto a la sociedad y el sector privado.
 En este sentido, es bueno aprender de experiencias avanzadas en este ámbito, de las cuales los Estados Unidos son un buen ejemplo. footnote:[_Por ejemplo, ver el documento https://ash.harvard.edu/links/lessons-leading-cdos-framework-better-ci-vic-analytics, mayo del 2017._]
+//enlace roto
 
 Las organizaciones modernas se caracterizan por la necesidad de gestionar sus servicios y procesos, fundamentados en un conjunto de bases de datos que se han multiplicado en los últimos años y que no dejarán de crecer en un futuro próximo.
 La gestión eficiente, coordinada y estructurada de los datos contribuye a diferentes objetivos en una organización como el Ayuntamiento de Barcelona. Más allá de las finalidades específicas e instrumentales de cada base de datos, la gobernanza global debe permitir dos objetivos irrenunciables en una organización pública moderna:
