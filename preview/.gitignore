@@ -1,3 +1,5 @@
-/node_modules/
-site.yml
-site.patched.yml
+*.pdf
+.vscode
+Thumbs.db
+.DS_store
+!modules/*/assets/attachments/*.pdf
