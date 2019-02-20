@@ -107,4 +107,39 @@ Por una parte, se quiere contribuir a completar los “agujeros negros” de inf
 A continuación se presenta el calendario de  ejecución de los proyectos emblemáticos relativos a la nueva estrategia de datos municipal.
 
 //falta imatge en castellà.
-image::Schedule_{lang}.svg[Schedule, width=70%]
+image::Schedule_{lang}.svg[Schedule]
+
+|===
+2.2+| Projecte 2.2+|Pressupost 2018 4.+| 2018 2.+|2019
+.1+|T1 |T2 |T3 |T4 |T1 |T2
+2.+| Oficina Municipal de Datos
+2.+|680 K|X|X|X|X| |
+
+2.+|Servicios City OS
+2.+|1.132 K|X|X|X|X|X|X
+
+2.+|BCN Open Data
+2.+|56 K|X|X|X|X|X|X
+
+2.+|DECODE
+2.+|545 K|X|X|X|X||
+
+2.+|Data City Challenges
+2.+|180 K|X|X|X|X|X|
+
+2.+|BCN Data Exchange
+2.+|130 K|X|X||||
+
+2.+|Cuadro de mandos para la gerencia municipal
+2.+|235 K|X|X|X|||
+
+2.+|Monitorización de gentrificación
+2.+|Recursos Propis|X|X|X|X|X |
+
+2.+|Censo/EIAE
+2.+|500 K|X|X|X|X||
+
+2.+|Observatorio de la Vivienda
+2.+|349 K|X|X|X|X||
+
+|===

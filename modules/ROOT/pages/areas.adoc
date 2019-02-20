@@ -16,7 +16,7 @@ Por otra parte, de forma general, la Estrategia pivotará sobre los siguientes p
 
 == El despliegue de la nueva gobernanza de los datos
 
-=== +++<u>POLÍTICAS Y PROCESOS DE GOBERNANZA</u>+++
+=== Políticas y procesos de gobernanza
 
 Como apoyo para la finalidad y las funciones de las gerencias y los entes municipales, y en coordinación con las personas responsables y las encargadas de los datos, se deberán definir, poner en práctica y mantener los procesos, los estándares y las políticas municipales que serán aplicables a todos los recursos de datos de la entidad.
 
@@ -28,7 +28,7 @@ Se debe asegurar que:
 * Las necesidades de información y los datos se gestionan siguiendo las políticas de gobernanza de la entidad, donde se establecen claramente las funciones, las responsabilidades y los procesos a partir de los cuales el personal de la entidad trata los datos como un activo, así como las relaciones entre tecnología, datos, programas de la entidad, estrategias, requerimientos legales y misión y objetivos operativos.
 * Los sistemas de información obsoletos se reemplazan tan rápidamente como sea posible y la planificación presupuestaría incluye las partidas correspondientes de depreciación.
 
-=== +++<u>LIDERAZGO Y RECURSOS HUMANOS</u>+++
+=== Liderazgo y recursos humanos
 
 
 Los entes dependientes municipales deberán desarrollar un conjunto de requerimientos y capacidades con respecto a los equipos responsables o encargados de los datos, en los cuales se incluirán aspectos sobre acceso, análisis, privacidad y seguridad, entre otros.
@@ -36,7 +36,7 @@ Especialmente, es necesario asegurar que los equipos con responsabilidad sobre l
 El departamento de Recursos Humanos debe asegurar que el personal ejecutivo/directivo que trata los datos tiene los conocimientos suficientes para ejecutar su tarea de una forma apropiada.
 Las personas responsables de las entidades deberán supervisar cómo lleva a cabo sus funciones el personal que trate con los datos, así como coordinarse con el CTID y el o la CDO para seleccionarlo.
 
-=== +++<u>PRIVACIDAD</u>+++
+=== Privacidad
 
 En cumplimiento del Reglamento 2106/679 de la Unión Europea, el Ayuntamiento designará un delegado o delegada de protección de datos (DPD) corporativa con las funciones que este reglamento le asigna.
 
@@ -58,7 +58,7 @@ Las unidades harán evaluaciones de impacto de protección de datos orientadas a
 Se deben tomar las medidas necesarias para incorporar estrategias de privacidad por diseño o tecnologías de mejora de la privacidad (PET, por las siglas en inglés), a partir de las cuales se tenga en cuenta la salvaguardia de la privacidad de las personas interesadas en todos los procesos de diseño, desarrollo y gestión de los sistemas de datos del Ayuntamiento.
 Siempre que sea aplicable, hay que usar algoritmos de encriptación, anonimización o pseudoanonimización.
 
-=== +++<u>SEGURIDAD DE LOS DATOS</u>+++
+=== Seguridad de los datos
 
 Para garantizar un nivel adecuado de seguridad de los datos y para asegurar su confidencialidad y uso correcto, el CTID debe designar, para cada unidad o ente, a una persona responsable de la seguridad de los datos o DSO (_data security officer_) responsable del desarrollo y el mantenimiento de un programa de seguridad de los datos en la unidad, de acuerdo con la legislación pertinente y en colaboración con la Comisión Técnica de Seguridad en Protección de Datos.
 
@@ -71,7 +71,7 @@ Todos los proyectos y los sistemas deben cumplir con las leyes y los reglamentos
 
 La seguridad física o lógica de los datos estará determinada por los estándares definidos por el IMI.
 
-=== +++<u>COLABORACIÓN COORDINACIÓN Y SUPERVISIÓN</u>+++
+=== Colaboración Coordinación y Supervisión
 
 La gobernanza general de los datos se describe en la Instrucción que acompaña esta medida en el anexo 10.1.
 Se constituye la Coordinación Transversal de Datos, el objetivo principal de la cual es coordinar proyectos transversales y, al mismo tiempo, actuar como mecanismo de difusión de proyectos.
@@ -95,7 +95,7 @@ Deben colaborar con las otras entidades en la promoción de unos servicios públ
 Específicamente, los entes deben seguir todos los procesos establecidos por el o por la DPD con respecto al cumplimiento riguroso de la normativa de protección de datos, notificar a la Autoridad Catalana de Protección de Datos la creación de bases de datos cuando sea necesario, y nombrar a las personas responsables y encargadas de los datos.
 Se deberá minimizar la recogida de datos personales, aplicar la anonimización o pseudoanonimización siempre que sea posible, obtener el consentimiento de las personas interesadas, y tener en cuenta la repercusión de cada acción en cada uno de los momentos del ciclo de vida de los datos sobre cada uno de los otros momentos o personas interesadas.
 
-=== +++<u>PRINCIPIOS RECTORES DE LA GESTIÓN ÉTICA Y RESPONSABLE DE LOS DATOS</u>+++
+=== Principios rectores de la gestión ética y responsable de los datos
 
 Los entes dependientes municipales deberán incorporar los siguientes pasos en la planificación, la presupuestación y la gestión, cuando sea adecuado:
 
@@ -119,7 +119,7 @@ Los sistemas de financiación municipales deben poder premiar las unidades que i
 El Ayuntamiento y todas las unidades del grupo municipal deberán observar un conjunto de procedimientos orientados a mejorar la adquisición de los datos y que posibiliten una gestión de los datos efectiva, económica, segura, ética, abierta y que garantice la privacidad.
 La planificación se debe centrar en los datos que soportan la misión de cada unidad, y se deben implantar procesos de gestión que se integren en la programación y la ejecución presupuestaria.
 
-=== +++<u>PLANIFICACIÓN Y PRESUPUESTO</u>+++
+=== Planificación y presupuesto
 
 La planificación presupuestaria es uno de los puntos esenciales de la elaboración y el mantenimiento de una estrategia de gestión de los datos, y debe permitir asegurar una colaboración efectiva entre las gerencias y las direcciones en este ámbito de gestión.
 
@@ -131,25 +131,25 @@ Es necesario que los objetivos sean específicos, mensurables y verificables, de
 Un ejemplo de proyecto emblemático en el área de presupuesto es Presupuesto Abierto, una herramienta para facilitar el análisis y la comprensión de los presupuestos del Ayuntamiento de Barcelona para la ciudadanía.
 El proyecto permite descargar datos en formatos abiertos, navegar desde los datos presupuestarios más agregados hasta el máximo nivel de detalle, tanto para el ejercicio actual como para los últimos ejercicios.
 
-=== +++<u>INVENTARIO</u>+++
+=== Inventario
 
 Las unidades deberán mantener un inventario footnote:[_El inventario de cada unidad se integrará a un inventario general del grupo municipal_] de los sistemas de información principales, de sus contenedores y de las herramientas de divulgación con el nivel de detalle que se determine para supervisarlos y gestionarlos.
 En este inventario habrá que identificar los conjuntos de datos con información de carácter personal y se determinarán unos procedimientos para permitir revisar regularmente que estos datos tienen la calidad necesaria, que se puede dar respuesta a los derechos de las personas interesadas y que son los mínimos imprescindibles para desarrollar las competencias y las funciones de la unidad.
 Por otra parte, cada unidad deberá mantener un registro que recoja todas las acciones realizadas sobre las bases de datos tanto de gestión como analíticas.
 La Oficina Municipal de Datos debe determinar la metainformación de estos sistemas.
 
-=== +++<u>GESTIÓN DE LOS SISTEMAS DE TRATAMIENTO DE LOS DATOS</u>+++
+=== Gestión de los sistemas de tratamiento de los datos
 
 Las unidades y los entes dependientes deberán poder facilitar, de una forma continuada, la adopción de las nuevas tecnologías y evaluar todo el ciclo de vida de cada sistema de información, con un inventario de las herramientas del software y del hardware asociados al sistema; la gestión y la sostenibilidad de los recursos y las infraestructuras que soportan el sistema; deberá determinar activamente las actualizaciones, las revisiones, las sustituciones o las disposiciones que se requieran para llevar a cabo correctamente las funciones de la unidad y proteger sus activos, y deberán asegurar los términos y las condiciones de los contratos y otros acuerdos de servicio que comporten la recogida, el procesamiento, el almacenamiento, el acceso, el intercambio y la disposición de información municipal, que estén confirmados y alineados con la política de protección de datos y que cubran los requisitos legales y éticos de las unidades.
 
-=== +++<u>GESTIÓN DE RIESGOS</u>+++
+=== Gestión de riesgos
 
 Las unidades deberán valorar las medidas de seguridad de la información y los datos, la gestión de registros, la transparencia, la evaluación de impacto y las cadenas de suministro, y hacerlo durante todo el ciclo de datos, de forma que los riesgos estén evaluados y gestionados.
 Además, deberán elaborar un plan en coordinación con el o la DPD, el o la CDO y el CTID para que los sistemas de información estén debidamente protegidos y asegurados y, al mismo tiempo, las acciones de actualización, revisión, sustitución o retirada tengan el máximo nivel de prioridad.footnote:[_Incluye hardware, software o componentes de firmware no mantenidos por sus desarrolladores, vendedores o fabricantes mediante la disponibilidad de parches de software, actualizaciones de firmware, recambios y contratos de mantenimiento_]
 También es necesario que periódicamente se revisen y se reporten los riesgos sobre procesos, personas y tecnologías.
 
 
-=== +++<u>PLAN DE RESILIENCIA</u>+++
+=== Plan de resilencia
 
 Las unidades y los entes dependientes municipales deberán elaborar un plan de resiliencia que tenga en cuenta la gestión de sus datos.
 El plan de resiliencia es esencial para que los servicios puedan seguir ejerciendo sus tareas en situaciones de disrupción.
@@ -171,7 +171,7 @@ Eso implica que el o la CDO debe priorizar los posibles desarrollos o definicion
 También será responsable de asegurar la calidad de los datos.
 Este data lake es el emblemático proyecto actual City OS.
 
-image::Mesura_Govern_BCNDATACOMONS_{lang}.svg[Data Commons]
+image::CityOS_infograph_{lang}.svg[Infografia CityOS, , width=2446]
 
 _City OS es un proyecto de depósito y arquitectura transversal para el almacenamiento y el acceso centralizado y uniforme a los datos de la ciudad.
 Es el repositorio analítico único de los datos municipales.
