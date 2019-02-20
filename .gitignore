@@ -1,5 +1,6 @@
 *.html
-
-*.editorconfig
+*.pdf
 .vscode
-settings.json
+Thumbs.db
+.DS_store
+!modules/*/assets/attachments/*.pdf
