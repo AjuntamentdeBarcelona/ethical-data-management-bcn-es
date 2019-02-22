@@ -1,8 +1,9 @@
-= Objectivos de la medida
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
+
+= Objectivos de la medida
 
 Esta medida establece la política general para la gobernanza, la planificación, la obtención, la gestión, el análisis, el uso, la protección, el acceso y la preservación, hasta que sea necesario, y la reutilización de los datos municipales para añadir valor a la información digital municipal a lo largo de su ciclo de vida, como también los aspectos que se derivan de ello con respecto a los recursos humanos, las infraestructuras y los recursos de TI, la gestión económica y los servicios de soporte.footnote:[Aunque esta medida se refiere a diferentes aspectos de los recursos de TI, como la privacidad, la confidencialidad, la calidad de la información, la divulgación o la política estadística, estos conceptos se recogerán y desarrollarán en instrucciones posteriores. Las unidades deberán aplicar las políticas de esta medida y de las instrucciones y las guías de una forma coherente y constante.]
 

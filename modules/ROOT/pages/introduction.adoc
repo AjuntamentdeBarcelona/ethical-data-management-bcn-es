@@ -1,4 +1,8 @@
-include::_partials/README.adoc[tag=metadata]
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
 = Introducción y justificación
 
 La información y los recursos de las tecnologías de la información (TI) son elementos críticos para el bienestar social, político y económico de la ciudadanía de Barcelona.

@@ -1,4 +1,8 @@
-include::_partials/README.adoc[tag=metadata]
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
 = Referencias
 
 * http://hdl.handle.net/11703/108746[*Directiva sobre gobernanza de datos municipales en las oficinas de datos municipales*]

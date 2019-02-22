@@ -1,4 +1,8 @@
-include::_partials/README.adoc[tag=metadata]
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
 = Gobernanza de los datos municipales: la Oficina Municipal de Datos
 
 Esta *Estrategia del uso responsable y ético de datos* implica un cambio organizativo que debe permitir la aplicación correcta de las disposiciones que la incluyen.

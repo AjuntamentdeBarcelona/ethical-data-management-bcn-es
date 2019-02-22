@@ -1,4 +1,8 @@
-include::_partials/README.adoc[tag=metadata]
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
 = Proyectos emblemáticos
 
 El programa relativo a la aplicación de una nueva estrategia que hace valer los datos para la toma de decisiones, descrito en los apartados anteriores, se despliega por toda la organización, de forma transversal y multidisciplinaria, mediante la puesta en marcha de un conjunto de proyectos.

@@ -1,4 +1,8 @@
-include::_partials/README.adoc[tag=metadata]
+ifndef::env-site,env-github[]
+include::_attributes.adoc[]
+endif::[]
+include::{partialsdir}/README.adoc[tag=metadata]
+
 = Valores esenciales del programa
 
 La facilidad actual para captar datos y la ubicuidad y el volumen de estos datos, así como las posibilidades de la ciencia de datos, están abriendo muchas perspectivas con respecto a la provisión de servicios.

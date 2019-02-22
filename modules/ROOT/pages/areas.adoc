@@ -1,8 +1,9 @@
-= Ejes estratégicos
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
+
+= Ejes estratégicos
 
 Para desarrollar la *Estrategia del uso responsable y ético de datos*, se han establecido los siguientes ejes de actuación, que ampliamos a continuación, junto con las acciones y los proyectos emblemáticos que están asociados.
 
