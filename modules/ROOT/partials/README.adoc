@@ -24,7 +24,7 @@
 //
 // MANDATORY. Title of the document. In web format, it appears as a heading of
 // level 1. In PDF format, it appears in a title page.
-:_title: Medida Gov. Gestión Ética de los Datos
+:_title: Medida Gob. Gestión Ética de los Datos
 //
 // OPTIONAL. Subtitle of the document.
 :_subtitle:
