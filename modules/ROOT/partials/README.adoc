@@ -20,7 +20,7 @@
 :uri-public-repo: https://github.com/AjuntamentdeBarcelona/ethical-data-management-bcn-es
 //
 // MANDATORY. Exactly the same value you give to key "name" in file antora.yml.
-:component-name:
+:component-name: es/data-management
 //
 // MANDATORY. Title of the document. In web format, it appears as a heading of
 // level 1. In PDF format, it appears in a title page.
@@ -36,7 +36,7 @@
 :_contributors:
 //
 // OPTIONAL. Semi-colon-separated list of names.
-:_reviewers: Roberto di Cosmo
+:_reviewers: Roberto di Cosmo, Ivan Mingueza
 //
 // OPTIONAL. Publication date of the revision. When the default value
 // ("{docdate}") is used, the current date in format YYYY-MM-DD is automatically
