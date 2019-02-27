@@ -172,7 +172,7 @@ Eso implica que el o la CDO debe priorizar los posibles desarrollos o definicion
 También será responsable de asegurar la calidad de los datos.
 Este data lake es el emblemático proyecto actual City OS.
 
-image::CityOS_infograph_{lang}.svg[Infografia CityOS, , width=2446]
+image::CityOS_infograph_{lang}.svg[Infografia CityOS, width=2446]
 
 _City OS es un proyecto de depósito y arquitectura transversal para el almacenamiento y el acceso centralizado y uniforme a los datos de la ciudad.
 Es el repositorio analítico único de los datos municipales.

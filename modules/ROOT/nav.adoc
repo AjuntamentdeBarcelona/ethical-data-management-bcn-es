@@ -22,4 +22,4 @@ include::{partialsdir}/README.adoc[tag=metadata]
 .$$BOTTOM
 * xref:{lang}/glossary:ROOT:glossary.adoc[Glosario de guías]
 * link:{attachmentsdir}/barcelona_data_management_{revnumber}.{lang}.pdf[Descargar PDF]
-* xref:index.adoc[_Información de los Autores y otros documentos_]
+* xref:index.adoc[Autores y otras informaciones del documento]

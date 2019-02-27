@@ -44,9 +44,8 @@ A partir de eso, debe explicar su visión y establecer un diálogo claro con los
 Finalmente, tiene que poder mostrar ejemplos concretos de la aplicación de esta visión del _data commons_ a la ciudadanía, para garantizar que da apoyo a su trabajo.
 Eso también se debe hacer reconociendo la necesidad de devolver el control de los datos a la ciudadanía que los produce, de forma que puedan decidir cuáles quieren mantener en privado y cuáles quieren compartir, con quién y sobre qué base. Esta visión, fundamentada en el concepto de la soberanía de datos de la ciudadanía, se concretará en proyectos experimentales como DECODE (ver a continuación) y en la integración de nuevas tecnologías, como los registros distribuidos o _blockchains_ y el ciframiento de datos.
 
-//falta imagen en castellano
 .El Barcelona Data Commons
-image::infografia_{lang}.svg[_EL BARCELONA DATA COMMONS_]
+image::infografia_{lang}.svg[El Barcelona Data Commons, width=80%]
 
 == La Oficina Municipal de Datos y el o la _chief data officer_ (CDO)
 

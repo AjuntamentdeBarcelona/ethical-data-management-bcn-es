@@ -110,5 +110,4 @@ Por una parte, se quiere contribuir a completar los “agujeros negros” de inf
 
 A continuación se presenta el calendario de  ejecución de los proyectos emblemáticos relativos a la nueva estrategia de datos municipal.
 
-//falta imatge en castellà.
-image::Schedule_{lang}.svg[Schedule]
+image::schedule_{lang}.svg[Calendario de proyectos, width=70%]
