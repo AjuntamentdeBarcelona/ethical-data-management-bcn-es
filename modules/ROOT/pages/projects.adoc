@@ -1,9 +1,8 @@
+= Proyectos emblemáticos
 ifndef::env-site,env-github[]
 include::_attributes.adoc[]
 endif::[]
 include::{partialsdir}/README.adoc[tag=metadata]
-
-= Proyectos emblemáticos
 
 El programa relativo a la aplicación de una nueva estrategia que hace valer los datos para la toma de decisiones, descrito en los apartados anteriores, se despliega por toda la organización, de forma transversal y multidisciplinaria, mediante la puesta en marcha de un conjunto de proyectos.
 
@@ -14,7 +13,7 @@ En esta sección presentamos los proyectos más relevantes que se llevarán a ca
 |===
 | 1. Oficina Municipal de Datos | 2. City OS
 | 3. Open Data BCN | 4. DECODE
-| 5. Data City Challenge | 6. Data Exchange
+| 5. Data City Challenge | 6. BCN Data Exchange
 | 7. Cuadro de Mando de la Gerencia Municipal | 8. Monitorización de la gentrificación
 | 9. Censo de Actividades Económicas | 10. Observatorio de la Vivienda
 |===
@@ -64,12 +63,12 @@ Estos proyectos (challenges) nos permitirán hacer pruebas y posteriormente adop
 
 == BCN Data Exchange
 
-El BCN Data Store que desarrollará el Ayuntamiento de Barcelona es un paso más en el camino iniciado con el proyecto BCNOpenData.
+El BCN Data Exchange que desarrollará el Ayuntamiento de Barcelona es un paso más en el camino iniciado con el proyecto Open Data BCN.
 Su objetivo es tratar de facilitar el acceso a los datos custodiados por la ciudad, a las personas y a las organizaciones para el bien común (_data commons_).
 
 También desarrollará una filosofía que enfatiza la explotación de los datos de la ciudad en todas las áreas de la actividad política de la ciudad y ayudará a promover una cultura de intercambio clara del “mercado de datos de la ciudad” tanto en el sector público como en el privado.
 
-BCN Data Store será una biblioteca pública de servicios, fácil de usar y escalable a medida que se desarrollen los servicios ofrecidos por la Oficina Municipal de Datos.
+BCN Data Exchange será una biblioteca pública de servicios, fácil de usar y escalable a medida que se desarrollen los servicios ofrecidos por la Oficina Municipal de Datos.
 Para poder hacerlo realidad, se trabajará bajo el concepto “_platform as a service_” (PaaS).
 
 Integrará comunidades y componentes sociales en todas las entregas y buscará establecer una red de personas y entes socios, miembros, revisores, amigos y seguidores.
@@ -106,7 +105,7 @@ Por lo tanto, el Observatorio surge como un instrumento capaz de aportar toda la
 
 Por una parte, se quiere contribuir a completar los “agujeros negros” de información y, por la otra, a bajar a unos niveles de detalle territorial que muy a menudo los grandes trabajos estadísticos de amplio espectro no permiten ver.
 
-*Presupuesto y calendario*
+== Presupuesto y calendario
 
 A continuación se presenta el calendario de  ejecución de los proyectos emblemáticos relativos a la nueva estrategia de datos municipal.
 
