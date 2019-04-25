@@ -330,6 +330,6 @@ En este sentido, las iniciativas para la publicación y la valorización “exte
 
 Los proyectos emblemáticos de este eje son los siguientes:
 
-* *BCN Data Store:* será la biblioteca pública de servicios, fácil de usar y escalable a medida que se desarrollen los servicios ofrecidos por la Oficina Municipal de Datos.
+* *BCN Data Exchange:* será la biblioteca pública de servicios, fácil de usar y escalable a medida que se desarrollen los servicios ofrecidos por la Oficina Municipal de Datos.
 * *BCNOpenData:* las mejoras en las funcionalidades de BCNOpenData permiten el acceso y la reutilización, para el bien común y para el beneficio de personas y entidades interesadas, de los datos generados o custodiados por los organismos públicos.
 * *Data City Challenges:* procurando tener la mejor eficiencia en los servicios que presta el Ayuntamiento, utilizaremos conjuntos de datos y la ciudad como modelo de experimentación para buscar soluciones a los principales retos urbanos.

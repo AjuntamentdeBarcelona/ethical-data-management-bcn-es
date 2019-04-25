@@ -64,12 +64,12 @@ Estos proyectos (challenges) nos permitirán hacer pruebas y posteriormente adop
 
 == BCN Data Exchange
 
-El BCN Data Store que desarrollará el Ayuntamiento de Barcelona es un paso más en el camino iniciado con el proyecto BCNOpenData.
+El BCN Data Exchange que desarrollará el Ayuntamiento de Barcelona es un paso más en el camino iniciado con el proyecto BCNOpenData.
 Su objetivo es tratar de facilitar el acceso a los datos custodiados por la ciudad, a las personas y a las organizaciones para el bien común (_data commons_).
 
 También desarrollará una filosofía que enfatiza la explotación de los datos de la ciudad en todas las áreas de la actividad política de la ciudad y ayudará a promover una cultura de intercambio clara del “mercado de datos de la ciudad” tanto en el sector público como en el privado.
 
-BCN Data Store será una biblioteca pública de servicios, fácil de usar y escalable a medida que se desarrollen los servicios ofrecidos por la Oficina Municipal de Datos.
+BCN Data Exchange será una biblioteca pública de servicios, fácil de usar y escalable a medida que se desarrollen los servicios ofrecidos por la Oficina Municipal de Datos.
 Para poder hacerlo realidad, se trabajará bajo el concepto “_platform as a service_” (PaaS).
 
 Integrará comunidades y componentes sociales en todas las entregas y buscará establecer una red de personas y entes socios, miembros, revisores, amigos y seguidores.
